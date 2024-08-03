@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Global</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="HTML5 website template" />
+    <meta name="keywords" content="global, template, html, sass, jquery" />
+    <meta name="author" content="Bucky Maler" />
+    <link rel="stylesheet" href="/static/css/main.css" />
+    <style>
+      /* CSS for the container element */
+      .container {
+        width: auto; /* Set your desired width */
+        height: 700px; /* Set your desired height */
+        overflow: auto; /* This will add a scroll bar if content overflows */
+        border: 1px solid #ccc; /* Optional: Add a border for visual clarity */
+        padding: 10px; /* Optional: Add some padding */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="device-notification">
+      <a class="device-notification--logo" href="#0">
+        <img src="/static/img/logo.png" alt="Global" />
+        <p>Fish Detection</p>
+      </a>
+    </div>
+
+    <div class="perspective effect-rotate-left">
+      <div class="container">
+        <div class="outer-nav--return"></div>
+        <div id="viewport" class="l-viewport">
+          <header class="header">
+            <a class="header--logo" href="#0">
+              <img src="/static/img/logo.png" alt="Global" />
+              <p>Fish Detection</p>
+            </a>
+            <div class="header--nav-toggle">
+              <span></span>
+            </div>
+          </header>
+
+            <center>
+              <h1 style="margin-top: 100px; font-size: 80px;">Classification</h1>
+            </center>
+            <form
+              action="{{url_for('classification')}}"
+              method="post"
+              enctype="multipart/form-data"
+            >
+
+            {% if not(path) %}
+            <center>
+
+              <select
+              name="select"
+              style="
+                padding: 10px;
+                border: 2px solid #ccc;
+                border-radius: 5px;
+                background-color: #1f3065;
+                color: #555;
+                font-size: 16px;
+                color: white;
+                width: 400px;
+              " 
+              required
+              >
+                <option hidden>Will you upload a fish image?</option>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+              </select><br><br>
+
+              <input
+              type="file"
+              name="file"
+              accept="image/*"
+              style="
+                padding: 10px;
+                border: 2px solid #ccc;
+                border-radius: 5px;
+                background-color: #1f3065;
+                color: #555;
+                font-size: 16px;
+                color: white;
+              "
+              required
+            />
+          </center><br>
+
+          
+            <center>
+              <input
+                type="submit"
+                style="
+                  padding: 10px;
+                  border: 2px solid #ccc;
+                  border-radius: 5px;
+                  background-color: #0a4124;
+                  color: #555;
+                  font-size: 16px;
+                  width: 400px;
+                  color: white;
+                "
+              />
+            </center>
+
+            {% else %}
+              <center>
+
+                <select
+              name="select"
+              style="
+                padding: 10px;
+                border: 2px solid #ccc;
+                border-radius: 5px;
+                background-color: #1f3065;
+                color: #555;
+                font-size: 16px;
+                color: white;
+                width: 400px;
+                margin-left: -200px;
+              " 
+              required
+              >
+                <option hidden>Will you upload a fish image?</option>
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+              </select><br><br>
+
+                <input
+                type="file"
+                name="file"
+                accept="image/*"
+                style="
+                  padding: 10px;
+                  border: 2px solid #ccc;
+                  border-radius: 5px;
+                  background-color: #1f3065;
+                  color: #555;
+                  font-size: 16px;
+                  margin-top: 0px;
+                  margin-left: -200px;
+                  color: white;
+                "
+                required
+              />
+            </center>
+
+            
+              <center>
+                <input
+                  type="submit"
+                  style="
+                    padding: 10px;
+                    border: 2px solid #ccc;
+                    border-radius: 5px;
+                    background-color: #0a4124;
+                    color: #555;
+                    font-size: 16px;
+                    margin-top: 30px;
+                    margin-left: -200px;
+                    width: 400px;
+                    color: white;
+                  "
+                />
+              </center>
+            {% endif %}
+            </form>
+
+            {% if path %}
+              <h4 style="margin-left: 900px; margin-top: -190px;"><b>Fishe Name: </b>{{fish}}</h4>
+
+            <div>
+                <img
+                  style="height: 200px; width: 200px; margin-left: 900px;"
+                  src="{{path}}"
+                />
+
+            </div>
+            <form
+              action="{{url_for('chart')}}"
+              method="post"
+              target="_blank"
+              enctype="multipart/form-data"
+            >
+            <center>
+              <input
+                    type="submit"
+                    style="
+                      padding: 10px;
+                      border: 2px solid #ccc;
+                      border-radius: 5px;
+                      background-color: white
+                      ;
+                      margin-left: 720px;
+                      color: black;
+                      width: 200px;
+                    "
+                  value="View Chart" />
+                </center>
+
+              <input style="display: none" name="fish" value="{{fish}}" />
+
+              <input
+                style="display: none"
+                name="chart_html1"
+                value="{{chart_html1}}"
+              />
+              <input
+                style="display: none"
+                name="chart_html2"
+                value="{{chart_html2}}"
+              />
+            </form>
+            {% block body %} {% if fish == "Black Sea Sprat" %}
+
+            <div>
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Black Sea Sprat Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: The Black Sea Sprat is a small fish belonging to
+                the herring family. It is silver in color with a distinctive
+                elongated body.
+              </p>
+              <p style="color:white; margin-left: 60px;">Availability: Found in the Black Sea and the Sea of Azov.</p>
+              <p style="color:white; margin-left: 60px;">
+                History: Black Sea Sprat has been an important food source in
+                the Black Sea region for centuries.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Gilt-Head Bream" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Gilt-Head Bream Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: The Gilt-Head Bream, also known as Orata or Dorada,
+                is a popular Mediterranean fish known for its delicious taste
+                and distinctive golden markings on its head.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in the Mediterranean Sea and the Atlantic
+                Ocean.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: Gilt-Head Bream has been prized by Mediterranean
+                cultures for its culinary qualities since ancient times.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Horse Mackerel" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Horse Mackerel Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: Horse Mackerel is a slim, streamlined fish with a
+                bluish-green back and silver sides. It is known for its strong
+                flavor.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in the Atlantic Ocean, Mediterranean Sea,
+                and Black Sea.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: Horse Mackerel has been consumed by various cultures
+                around the world for centuries.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Red Mullet" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Red Mullet Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: The Red Mullet is a colorful fish with reddish-gold
+                scales and distinctively long dorsal fins.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in the Mediterranean Sea and the eastern
+                Atlantic Ocean.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: Red Mullet has been appreciated as a delicacy in
+                Mediterranean cuisine for centuries.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Red Sea Bream" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Red Sea Bream Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: The Red Sea Bream, also known as Tai or Pagrus
+                major, is a prized fish in Japanese cuisine, known for its firm
+                texture and sweet flavor.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in the Pacific Ocean and the Indian Ocean.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: Red Sea Bream has been highly valued in Japanese
+                culture for its role in traditional dishes such as sushi and
+                sashimi.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Sea Bass" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Sea Bass Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: Sea Bass is a popular white fish with a mild,
+                delicate flavor and flaky texture.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in coastal waters around the world,
+                including the Mediterranean Sea and the Atlantic Ocean.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: Sea Bass has been enjoyed in various cuisines for its
+                versatility and delicious taste.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Shrimp" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Shrimp Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: Shrimp are small crustaceans with a sweet, delicate
+                flavor and tender texture. They are often used in a wide range
+                of dishes.
+              </p>
+              <p style="color:white; margin-left: 60px;">Availability: Found in oceans and seas worldwide.</p>
+              <p style="color:white; margin-left: 60px;">
+                History: Shrimp have been a popular food source for humans for
+                thousands of years.
+              </p>
+            </div>
+
+            <div>
+              {% elif fish == "Striped Red Mullet" %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Striped Red Mullet Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: The Striped Red Mullet is a small fish with red and
+                silver stripes along its body. It is prized for its tender flesh
+                and mild flavor.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in the Mediterranean Sea and the eastern
+                Atlantic Ocean.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: The Striped Red Mullet has been a favorite among
+                Mediterranean fishermen and chefs for generations.
+              </p>
+            </div>
+
+            <div>
+              {% else %}
+              <h2 style="color:white; margin-left: 60px; margin-top: -40px;">Trout Information</h2>
+              <p style="color:white; margin-left: 60px;">
+                Description: Trout are freshwater fish belonging to the
+                Salmonidae family. They are known for their flavorful flesh and
+                are often prized by anglers.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                Availability: Found in rivers, lakes, and streams around the
+                world.
+              </p>
+              <p style="color:white; margin-left: 60px;">
+                History: Trout have been a popular game fish and food source for
+                humans for centuries.
+              </p>
+         
+            {% endif %} {% endblock %}
+            <br />
+            
+            {% endif %}
+            </div>
+            <br />
+          </div>
+          <br />
+        </div>
+        </div>
+      
+
+      <ul class="outer-nav">
+        <li><a href="{{url_for('home')}}">Home</a></li>
+        <li><a href="{{url_for('about')}}">About</a></li>
+        <li>
+          <a class="is-active" href="{{url_for('classification')}}"
+            >Classification</a
+          >
+        </li>
+        <li><a href="{{url_for('recommentation')}}">Recommendation</a></li>
+        <li><a href="{{url_for('index')}}">LogOut</a></li>
+      </ul>
+    </div>
+
+    {% if message %}
+    <script>
+      alert("{{ message }}");
+    </script>
+    {% endif %}
+
+    <!-- <script>
+      document.getElementById('select').addEventListener('change', function() {
+        var selectedValue = this.value;
+        if (selectedValue === '0') {
+          alert("Can't predict a non-fish image");
+        }
+      });
+      </script> -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script>
+      window.jQuery ||
+        document.write(
+          '<script src="/static/js/vendor/jquery-2.2.4.min.js"><\/script>'
+        );
+    </script>
+    <script src="/static/js/functions-min.js"></script>
+  </body>
+</html>

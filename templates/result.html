@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Classification Result</title>
+  <!-- Add any necessary meta tags, stylesheets, or scripts -->
+</head>
+<body style="background-color: black;">
+
+    <center>
+        <h1 style="color: white;">Classification Result</h1>
+
+        <h2 style="color: white;"><b style="color: white;">Fish Name: </b>{{ fish }}</h2>
+
+        <h3 style="color: white;">Detailed Demand Analysis</h3>
+
+
+    <div>
+        {{ chart_html1 | safe }}
+    </div><br><br>
+
+    <h3>Demand Analysis</h3>
+    <div>
+        {{ chart_html2 | safe }}
+    </div>
+    </center>
+
+
+</body>
+</html>
+
+
+
+
+

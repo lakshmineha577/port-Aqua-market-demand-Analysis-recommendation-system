@@ -1,0 +1,10 @@
+pip install flask
+pip install pillow
+pip install scikit-learn
+pip install tensorflow
+pip install pandas
+pip install seaborn
+
+--------------
+
+python app.py

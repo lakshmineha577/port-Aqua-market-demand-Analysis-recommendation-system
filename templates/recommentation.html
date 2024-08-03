@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Global</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="HTML5 website template">
+  <meta name="keywords" content="global, template, html, sass, jquery">
+  <meta name="author" content="Bucky Maler">
+  <link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+
+<div class="device-notification">
+  <a class="device-notification--logo" href="#0">
+    <img src="/static/img/logo.png" alt="Global">
+    <p>Fish Detection</p>
+  </a>
+</div>
+
+<div class="perspective effect-rotate-left">
+  <div class="container"><div class="outer-nav--return"></div>
+    <div id="viewport" class="l-viewport">
+      <div class="l-wrapper">
+        <header class="header">
+          <a class="header--logo" href="#0">
+            <img src="/static/img/logo.png" alt="Global">
+            <p>Fish Detection</p>
+          </a>
+          <div class="header--nav-toggle">
+            <span></span>
+          </div>
+        </header>
+
+        <div class="intro">
+          <div class="intro--banner">
+            <h1 style="margin-top: 100px; margin-left: 100px; position: absolute;">Recommendation</h1>
+            <img style="margin-top: 80px;
+            margin-left: 500px;
+            position: relative;"
+            src="/static/img/fish-water-png-3919.png">
+            <form action="{{url_for('recommentation')}}" method="post">
+
+              <select style="padding: 10px;
+              border: 2px solid #ccc;
+              border-radius: 5px;
+              background-color: #1f3065;
+              color: #fff;
+              font-size: 16px;
+              position: absolute;
+              margin-top: -200px;
+              margin-left: 100px;
+              width: 300px;"
+              name="state" class="form-select" aria-label="Select a state" required>
+                <option selected disabled>Select a state</option>
+                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                <option value="Assam">Assam</option>
+                <option value="Bihar">Bihar</option>
+                <option value="Chhattisgarh">Chhattisgarh</option>
+                <option value="Goa">Goa</option>
+                <option value="Gujarat">Gujarat</option>
+                <option value="Haryana">Haryana</option>
+                <option value="Himachal Pradesh">Himachal Pradesh</option>
+                <option value="Jharkhand">Jharkhand</option>
+                <option value="Karnataka">Karnataka</option>
+                <option value="Kerala">Kerala</option>
+                <option value="Madhya Pradesh">Madhya Pradesh</option>
+                <option value="Maharashtra">Maharashtra</option>
+                <option value="Manipur">Manipur</option>
+                <option value="Meghalaya">Meghalaya</option>
+                <option value="Mizoram">Mizoram</option>
+                <option value="Nagaland">Nagaland</option>
+                <option value="Odisha">Odisha</option>
+                <option value="Punjab">Punjab</option>
+                <option value="Rajasthan">Rajasthan</option>
+                <option value="Sikkim">Sikkim</option>
+                <option value="Tamil Nadu">Tamil Nadu</option>
+                <option value="Telangana">Telangana</option>
+                <option value="Tripura">Tripura</option>
+                <option value="Uttar Pradesh">Uttar Pradesh</option>
+                <option value="Uttarakhand">Uttarakhand</option>
+                <option value="West Bengal">West Bengal</option>
+              </select>
+            
+      
+              <div class="work-request--information">
+                <input style="position: absolute;
+                padding: 10px;
+                border: 2px solid #ccc;
+                border-radius: 5px;
+                background-color: #1f3065;
+                color: #555;
+                font-size: 15px;
+                margin-top: -118px;
+                margin-left: 100px;
+                color: white;
+                width: 300px;"
+                type="submit" value="Submit">
+            </div>
+            {% if result %}
+              <h2 style="margin-top: -100px; margin-left: 100px;">Fish 1: {{result[0]}}</h2>
+              <h2 style="margin-left: 100px;">Fish 2: {{result[1]}}</h2>
+              <h2 style="margin-left: 100px;">Fish 3: {{result[2]}}</h2>
+            {% endif %}
+          </div>
+        </div>
+      </div>    
+    </div>
+          
+</div>
+</div>
+</div>
+<ul class="outer-nav">
+<li><a href="{{url_for('home')}}">Home</a></li>
+<li><a href="{{url_for('about')}}">About</a> </li>
+<li><a href="{{url_for('classification')}}">Classification</a> </li>
+<li><a class="is-active" href="{{url_for('recommentation')}}">Recommendation</a> </li>
+<li><a href="{{url_for('index')}}">LogOut</a></li>
+</ul>
+</div>
+
+{% if message %}
+<script>
+  alert("{{ message }}")        
+</script>
+{% endif %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/static/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
+<script src="/static/js/functions-min.js"></script>
+</body>
+</html>

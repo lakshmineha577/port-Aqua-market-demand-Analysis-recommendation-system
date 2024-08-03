@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Global</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="HTML5 website template">
+  <meta name="keywords" content="global, template, html, sass, jquery">
+  <meta name="author" content="Bucky Maler">
+  <link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+
+<!-- notification for small viewports and landscape oriented smartphones -->
+<div class="device-notification">
+  <a class="device-notification--logo" href="#0">
+    <img src="/static/img/fish.png" alt="Global">
+    <p></p>
+  </a>
+  <p class="device-notification--message"></p>
+</div>
+
+<div class="perspective effect-rotate-left">
+  <div class="container"><div class="outer-nav--return"></div>
+    <div id="viewport" class="l-viewport">
+      <div class="l-wrapper">
+        <header class="header">
+          <a class="header--logo" href="#0">
+            <img src="/static/img/logo.png" alt="Global">
+            <p>Fish Detection</p>
+          </a><div class="header--nav-toggle"><span></span></div></header>
+        <nav class="l-side-nav">
+          <ul class="side-nav">
+            <li class="is-active"><span>Home</span></li>
+            <li><span>Register</span></li>
+            <li><span>Login</span></li>
+          </ul>
+        </nav>
+        <ul class="l-main-content main-content">
+          <li class="l-section section section--is-active">
+            <div class="intro">
+                <div class="intro--banner">
+                  <p style="margin-top: 1px; margin-left: 75px; font-size: 40px;"><b>Aqua Market Demand<br>Analysis for Port and<br>Recommendation <br>System</b></p>
+                  
+                  <img style="background-color: inherit;" src="/static/img/fish-water-png-3919.png" alt="Welcome">
+                </div>
+            </div>
+          </li>
+
+          <li class="l-section section">
+            <div class="hire">
+                <form class="work-request" action="{{url_for('register')}}" method="post">
+                    <div class="work-request--information">
+                        <div style="margin-top: 0px; margin-left: 0px;" class="information-email">
+                            <input style="width: 400px;" id="email" name="email" type="email" spellcheck="false">
+                            <label for="email">Email</label>
+                        </div>
+                    </div>
+                    
+                    <div class="work-request--information">
+                        <div style="margin-top: 0px; margin-left: 0px;" class="information-email">
+                            <input style="width: 400px;" id="password" name="password" type="text" spellcheck="false">
+                            <label for="password">Password</label>
+                          </div>
+                        </div>
+                    
+                    <div class="work-request--information">
+                        <div style="margin-top: 0px; margin-left: 0px;" class="information-email">
+                            <input style="width: 400px;" id="c_password" name="c_password" type="text" spellcheck="false">
+                            <label for="c_password">Confirm Password</label>
+                        </div>
+                    </div>
+
+                    <div class="work-request--information">
+                        <input style="margin-top: 0px; margin-left: 0px;" type="submit" value="Register">
+                    </div>
+                </form>
+            </div>
+          </li>
+
+            <li class="l-section section">
+                <div class="hire">
+                    <form class="work-request" action="{{url_for('login')}}" method="post">
+                        <div class="work-request--information">
+                            <div style="margin-top: 0px; margin-left: 0px;" class="information-email">
+                                <input style="width: 400px;" id="email" type="email" name="email" spellcheck="false">
+                                <label for="email">Email</label>
+                            </div>
+                        </div>
+
+                        <div class="work-request--information">
+                            <div style="margin-top: 0px; margin-left: 0px;" class="information-email">
+                                <input style="width: 400px;" id="password" name="password" type="text" spellcheck="false">
+                                <label for="password">Password</label>
+                            </div>
+                        </div>
+                        
+
+                        <div class="work-request--information">
+                            <input style="margin-top: 0px; margin-left: 0px;" type="submit" value="Login">
+                        </div>
+                    </form>
+                </div>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <ul class="outer-nav">
+    <li class="is-active">Home</li>
+    <li>Register</li>
+    <li>Login</li>
+  </ul>
+</div>
+
+
+{% if message %}
+  <script>
+      alert("{{ message }}")        
+  </script>
+{% endif %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/static/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
+<script src="/static/js/functions-min.js"></script>
+</body>
+</html>

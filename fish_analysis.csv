@@ -1,0 +1,61 @@
+,Fish Type,Size,Shape,Colour,Weight,Height,Lifespan,Production,Live Stock,Purchases,Seasonal Data
+0,Gilt Head Bream,Small,Round,Silver,3.21 kg,59.04 cm,4 years,377 tons,46K,88 units,Autumn
+1,Red Sea Bream,Small,Elongated,Silver,2.23 kg,81.26 cm,8 years,274 tons,98K,338 units,Summer
+2,Sea Bass,Medium,Round,Silver,0.89 kg,11.82 cm,4 years,809 tons,89K,432 units,Spring
+3,Red Mullet,Large,Elongated,Red,2.58 kg,80.25 cm,8 years,388 tons,75K,266 units,Summer
+4,Horse Mackerel,Small,Oval,Silver,2.63 kg,26.77 cm,3 years,283 tons,38K,291 units,Spring
+5,Black Sea Sprat,Small,Elongated,Red,1.17 kg,30.01 cm,2 years,435 tons,14K,106 units,Autumn
+6,Striped Red Mullet,Large,Elongated,Red,3.64 kg,15.42 cm,4 years,970 tons,21K,431 units,Autumn
+7,Trout,Small,Oval,Green,2.14 kg,61.32 cm,5 years,303 tons,78K,263 units,Spring
+8,Shrimp,Small,Elongated,Silver,3.12 kg,47.29 cm,5 years,327 tons,68K,280 units,Winter
+9,Gilt Head Bream,Medium,Round,Red,1.93 kg,80.05 cm,4 years,548 tons,79K,95 units,Spring
+10,Red Sea Bream,Medium,Oval,Silver,0.93 kg,97.88 cm,3 years,654 tons,87K,369 units,Winter
+11,Sea Bass,Medium,Round,Green,0.68 kg,35.45 cm,8 years,799 tons,12K,378 units,Autumn
+12,Red Mullet,Large,Oval,Green,1.48 kg,60.87 cm,5 years,309 tons,60K,412 units,Autumn
+13,Horse Mackerel,Medium,Oval,Red,0.87 kg,34.99 cm,9 years,111 tons,12K,308 units,Spring
+14,Black Sea Sprat,Small,Oval,Silver,1.69 kg,45.80 cm,4 years,284 tons,70K,489 units,Summer
+15,Striped Red Mullet,Large,Elongated,Red,3.06 kg,73.34 cm,1 years,396 tons,82K,20 units,Winter
+16,Trout,Small,Oval,Blue,3.38 kg,90.24 cm,1 years,360 tons,77K,238 units,Winter
+17,Shrimp,Small,Oval,Red,2.35 kg,70.79 cm,1 years,252 tons,39K,150 units,Autumn
+18,Gilt Head Bream,Medium,Elongated,Silver,3.47 kg,57.99 cm,4 years,773 tons,42K,229 units,Winter
+19,Red Sea Bream,Medium,Oval,Red,3.72 kg,35.92 cm,9 years,691 tons,51K,275 units,Spring
+20,Sea Bass,Large,Oval,Green,2.09 kg,59.66 cm,7 years,912 tons,98K,382 units,Spring
+21,Red Mullet,Large,Oval,Silver,2.46 kg,90.27 cm,6 years,827 tons,53K,33 units,Winter
+22,Horse Mackerel,Small,Elongated,Blue,2.61 kg,85.70 cm,9 years,870 tons,37K,468 units,Summer
+23,Black Sea Sprat,Medium,Oval,Silver,2.35 kg,22.60 cm,8 years,493 tons,83K,298 units,Winter
+24,Striped Red Mullet,Large,Oval,Blue,4.40 kg,97.80 cm,8 years,523 tons,71K,342 units,Summer
+25,Trout,Small,Oval,Blue,2.70 kg,40.51 cm,5 years,868 tons,85K,291 units,Summer
+26,Shrimp,Large,Round,Blue,4.68 kg,73.40 cm,2 years,309 tons,45K,377 units,Winter
+27,Gilt Head Bream,Small,Elongated,Silver,4.97 kg,34.05 cm,4 years,214 tons,40K,30 units,Summer
+28,Red Sea Bream,Medium,Oval,Red,2.29 kg,28.89 cm,6 years,457 tons,22K,45 units,Summer
+29,Sea Bass,Medium,Oval,Green,1.52 kg,32.89 cm,7 years,514 tons,27K,199 units,Winter
+30,Red Mullet,Large,Elongated,Green,3.28 kg,58.82 cm,6 years,301 tons,99K,499 units,Spring
+31,Horse Mackerel,Medium,Elongated,Green,3.72 kg,52.25 cm,7 years,675 tons,26K,107 units,Spring
+32,Black Sea Sprat,Large,Elongated,Silver,4.47 kg,91.40 cm,9 years,959 tons,97K,161 units,Winter
+33,Striped Red Mullet,Small,Round,Blue,1.34 kg,95.75 cm,1 years,815 tons,46K,282 units,Spring
+34,Trout,Large,Oval,Blue,1.91 kg,96.17 cm,7 years,327 tons,93K,136 units,Spring
+35,Shrimp,Medium,Round,Red,2.59 kg,34.99 cm,6 years,239 tons,14K,424 units,Spring
+36,Gilt Head Bream,Medium,Oval,Blue,1.09 kg,74.52 cm,4 years,839 tons,28K,374 units,Autumn
+37,Red Sea Bream,Large,Round,Blue,2.10 kg,94.64 cm,3 years,955 tons,75K,327 units,Autumn
+38,Sea Bass,Medium,Elongated,Blue,3.79 kg,14.11 cm,4 years,670 tons,59K,107 units,Summer
+39,Red Mullet,Small,Round,Red,3.00 kg,10.83 cm,9 years,820 tons,32K,336 units,Summer
+40,Horse Mackerel,Small,Oval,Red,4.44 kg,40.43 cm,1 years,156 tons,33K,281 units,Spring
+41,Black Sea Sprat,Small,Elongated,Red,3.69 kg,54.83 cm,5 years,453 tons,67K,408 units,Winter
+42,Striped Red Mullet,Medium,Round,Green,1.17 kg,98.36 cm,7 years,107 tons,19K,183 units,Spring
+43,Trout,Small,Elongated,Red,1.84 kg,46.10 cm,2 years,632 tons,46K,325 units,Spring
+44,Shrimp,Small,Oval,Red,4.58 kg,79.66 cm,5 years,554 tons,19K,445 units,Winter
+45,Gilt Head Bream,Small,Oval,Red,0.56 kg,58.01 cm,4 years,328 tons,68K,386 units,Summer
+46,Red Sea Bream,Small,Elongated,Blue,2.44 kg,77.69 cm,4 years,326 tons,50K,445 units,Summer
+47,Sea Bass,Small,Elongated,Blue,0.75 kg,37.14 cm,6 years,297 tons,43K,136 units,Summer
+48,Red Mullet,Large,Elongated,Blue,2.45 kg,84.42 cm,4 years,202 tons,94K,328 units,Winter
+49,Horse Mackerel,Small,Round,Green,1.67 kg,43.64 cm,8 years,249 tons,18K,172 units,Autumn
+50,Black Sea Sprat,Small,Elongated,Green,0.70 kg,81.98 cm,3 years,735 tons,97K,97 units,Winter
+51,Striped Red Mullet,Large,Oval,Silver,4.82 kg,68.10 cm,3 years,273 tons,14K,442 units,Summer
+52,Trout,Medium,Oval,Silver,1.97 kg,23.23 cm,5 years,973 tons,72K,5 units,Summer
+53,Shrimp,Large,Round,Blue,4.60 kg,17.47 cm,8 years,638 tons,32K,461 units,Winter
+54,Gilt Head Bream,Large,Oval,Green,1.97 kg,78.11 cm,9 years,740 tons,20K,460 units,Summer
+55,Red Sea Bream,Large,Oval,Red,3.16 kg,87.20 cm,7 years,409 tons,53K,83 units,Winter
+56,Sea Bass,Small,Round,Red,4.59 kg,83.40 cm,6 years,319 tons,41K,222 units,Autumn
+57,Red Mullet,Small,Oval,Red,1.66 kg,86.41 cm,1 years,166 tons,82K,126 units,Autumn
+58,Horse Mackerel,Small,Oval,Green,1.33 kg,46.11 cm,6 years,956 tons,44K,464 units,Winter
+59,Black Sea Sprat,Small,Oval,Red,2.54 kg,39.40 cm,5 years,896 tons,16K,323 units,Spring

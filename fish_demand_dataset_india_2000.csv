@@ -1,0 +1,1837 @@
+State,Fish Type,Average Consumption (tons),Preferred Size (cm),Price Range (INR per kg),Seasonal Availability
+Andhra Pradesh,Gilt Head Bream,10.62,38.52,419.6 - 529.46,Year-round
+Andhra Pradesh,Gilt Head Bream,11.69,13.0,337.77 - 421.15,Seasonal
+Andhra Pradesh,Gilt Head Bream,15.62,10.62,490.97 - 624.22,Seasonal
+Andhra Pradesh,Gilt Head Bream,5.01,39.77,385.24 - 496.41,Year-round
+Andhra Pradesh,Gilt Head Bream,11.48,18.74,383.56 - 447.51,Seasonal
+Andhra Pradesh,Gilt Head Bream,19.61,16.98,227.18 - 339.02,Seasonal
+Andhra Pradesh,Red Sea Bream,12.71,27.77,213.94 - 324.69,Year-round
+Andhra Pradesh,Red Sea Bream,11.76,10.4,482.66 - 588.99,Seasonal
+Andhra Pradesh,Red Sea Bream,9.57,12.93,405.27 - 499.29,Year-round
+Andhra Pradesh,Red Sea Bream,14.15,35.0,252.01 - 341.12,Seasonal
+Andhra Pradesh,Red Sea Bream,14.94,19.35,356.02 - 460.69,Seasonal
+Andhra Pradesh,Red Sea Bream,5.47,35.27,334.93 - 424.44,Seasonal
+Andhra Pradesh,Sea Bass,13.97,37.66,226.55 - 296.15,Year-round
+Andhra Pradesh,Sea Bass,19.42,35.34,424.2 - 528.17,Seasonal
+Andhra Pradesh,Sea Bass,10.35,18.43,362.81 - 426.9,Year-round
+Andhra Pradesh,Sea Bass,7.48,10.47,327.02 - 416.51,Seasonal
+Andhra Pradesh,Sea Bass,5.08,34.46,412.06 - 534.96,Year-round
+Andhra Pradesh,Sea Bass,14.09,37.79,395.32 - 536.82,Year-round
+Andhra Pradesh,Red Mullet,14.35,19.93,219.07 - 300.17,Seasonal
+Andhra Pradesh,Red Mullet,14.99,27.74,282.42 - 388.54,Year-round
+Andhra Pradesh,Red Mullet,6.79,31.4,428.24 - 534.36,Year-round
+Andhra Pradesh,Red Mullet,8.84,11.21,413.2 - 474.29,Seasonal
+Andhra Pradesh,Red Mullet,6.62,10.94,390.92 - 472.36,Seasonal
+Andhra Pradesh,Red Mullet,15.43,14.18,381.33 - 485.31,Year-round
+Andhra Pradesh,Horse Mackerel,8.43,12.31,286.93 - 353.05,Seasonal
+Andhra Pradesh,Horse Mackerel,14.37,18.87,231.65 - 327.3,Seasonal
+Andhra Pradesh,Horse Mackerel,7.8,36.78,361.8 - 492.55,Seasonal
+Andhra Pradesh,Horse Mackerel,10.34,37.2,281.64 - 396.41,Year-round
+Andhra Pradesh,Horse Mackerel,17.27,35.82,202.09 - 303.16,Year-round
+Andhra Pradesh,Horse Mackerel,12.27,30.77,280.82 - 355.24,Year-round
+Andhra Pradesh,Black Sea Sprat,9.85,25.56,410.91 - 497.27,Year-round
+Andhra Pradesh,Black Sea Sprat,8.81,17.41,408.89 - 530.12,Year-round
+Andhra Pradesh,Black Sea Sprat,9.27,11.11,382.87 - 483.14,Seasonal
+Andhra Pradesh,Black Sea Sprat,5.5,20.35,390.31 - 508.38,Year-round
+Andhra Pradesh,Black Sea Sprat,12.34,39.57,272.62 - 389.83,Year-round
+Andhra Pradesh,Black Sea Sprat,10.54,17.26,440.94 - 537.97,Seasonal
+Andhra Pradesh,Striped Red Mullet,14.5,26.07,227.09 - 360.62,Seasonal
+Andhra Pradesh,Striped Red Mullet,12.62,30.87,457.51 - 540.1,Seasonal
+Andhra Pradesh,Striped Red Mullet,5.25,25.36,267.95 - 382.47,Seasonal
+Andhra Pradesh,Striped Red Mullet,19.11,21.93,355.33 - 489.1,Year-round
+Andhra Pradesh,Striped Red Mullet,10.12,13.4,477.41 - 615.14,Year-round
+Andhra Pradesh,Striped Red Mullet,8.43,15.25,494.65 - 596.31,Year-round
+Andhra Pradesh,Trout,8.63,12.79,469.16 - 609.21,Year-round
+Andhra Pradesh,Trout,7.83,18.37,410.11 - 544.77,Seasonal
+Andhra Pradesh,Trout,18.31,33.4,392.61 - 451.02,Seasonal
+Andhra Pradesh,Trout,16.78,30.07,374.21 - 461.43,Year-round
+Andhra Pradesh,Trout,14.95,10.15,248.24 - 353.12,Seasonal
+Andhra Pradesh,Trout,11.73,39.83,252.78 - 304.59,Seasonal
+Andhra Pradesh,Shrimp,9.88,32.39,394.89 - 529.81,Year-round
+Andhra Pradesh,Shrimp,9.62,26.28,352.64 - 466.28,Seasonal
+Andhra Pradesh,Shrimp,8.66,39.19,317.93 - 457.13,Year-round
+Andhra Pradesh,Shrimp,11.52,20.5,393.53 - 510.42,Year-round
+Andhra Pradesh,Shrimp,7.93,31.67,284.23 - 336.66,Year-round
+Andhra Pradesh,Shrimp,5.65,39.84,340.98 - 418.94,Seasonal
+Arunachal Pradesh,Gilt Head Bream,10.55,10.46,478.5 - 571.31,Year-round
+Arunachal Pradesh,Gilt Head Bream,13.58,39.41,222.6 - 303.17,Seasonal
+Arunachal Pradesh,Gilt Head Bream,17.77,19.51,250.85 - 356.53,Year-round
+Arunachal Pradesh,Gilt Head Bream,17.66,37.9,221.12 - 292.02,Year-round
+Arunachal Pradesh,Gilt Head Bream,19.85,14.2,355.5 - 493.24,Year-round
+Arunachal Pradesh,Gilt Head Bream,17.73,14.1,412.67 - 517.96,Seasonal
+Arunachal Pradesh,Red Sea Bream,17.14,34.3,460.12 - 601.45,Seasonal
+Arunachal Pradesh,Red Sea Bream,5.08,28.84,258.28 - 315.38,Seasonal
+Arunachal Pradesh,Red Sea Bream,16.94,36.7,301.4 - 388.96,Seasonal
+Arunachal Pradesh,Red Sea Bream,11.58,30.16,298.45 - 363.95,Seasonal
+Arunachal Pradesh,Red Sea Bream,9.3,27.72,209.15 - 262.88,Seasonal
+Arunachal Pradesh,Red Sea Bream,9.55,26.11,298.0 - 430.78,Seasonal
+Arunachal Pradesh,Sea Bass,8.24,28.69,225.6 - 280.77,Seasonal
+Arunachal Pradesh,Sea Bass,11.17,30.99,241.51 - 304.78,Seasonal
+Arunachal Pradesh,Sea Bass,12.74,19.69,438.56 - 515.64,Seasonal
+Arunachal Pradesh,Sea Bass,16.16,17.53,255.3 - 313.39,Year-round
+Arunachal Pradesh,Sea Bass,15.44,22.27,251.99 - 317.63,Seasonal
+Arunachal Pradesh,Sea Bass,8.6,12.82,254.86 - 398.32,Year-round
+Arunachal Pradesh,Red Mullet,19.32,32.14,366.31 - 477.48,Year-round
+Arunachal Pradesh,Red Mullet,5.72,26.98,247.59 - 309.61,Year-round
+Arunachal Pradesh,Red Mullet,6.74,11.38,212.22 - 347.76,Seasonal
+Arunachal Pradesh,Red Mullet,7.63,10.51,429.01 - 559.7,Seasonal
+Arunachal Pradesh,Red Mullet,7.6,23.02,319.55 - 431.14,Year-round
+Arunachal Pradesh,Red Mullet,18.3,17.83,204.59 - 347.93,Seasonal
+Arunachal Pradesh,Horse Mackerel,17.85,29.76,248.88 - 305.94,Year-round
+Arunachal Pradesh,Horse Mackerel,19.16,36.02,390.92 - 521.02,Seasonal
+Arunachal Pradesh,Horse Mackerel,10.82,29.3,337.48 - 442.04,Year-round
+Arunachal Pradesh,Horse Mackerel,14.39,34.61,395.45 - 466.11,Year-round
+Arunachal Pradesh,Horse Mackerel,6.04,13.02,205.47 - 264.91,Year-round
+Arunachal Pradesh,Horse Mackerel,10.05,29.67,315.62 - 433.78,Seasonal
+Arunachal Pradesh,Black Sea Sprat,17.22,18.46,235.45 - 355.12,Year-round
+Arunachal Pradesh,Black Sea Sprat,19.05,11.18,325.38 - 472.14,Seasonal
+Arunachal Pradesh,Black Sea Sprat,7.66,32.52,442.05 - 591.1,Seasonal
+Arunachal Pradesh,Black Sea Sprat,6.92,17.5,374.16 - 510.87,Seasonal
+Arunachal Pradesh,Black Sea Sprat,17.88,22.87,425.26 - 550.72,Year-round
+Arunachal Pradesh,Black Sea Sprat,10.67,26.03,348.97 - 437.93,Year-round
+Arunachal Pradesh,Striped Red Mullet,18.43,21.68,203.25 - 343.79,Seasonal
+Arunachal Pradesh,Striped Red Mullet,10.32,38.7,403.03 - 501.28,Seasonal
+Arunachal Pradesh,Striped Red Mullet,14.48,23.45,287.96 - 370.83,Year-round
+Arunachal Pradesh,Striped Red Mullet,8.19,38.39,434.39 - 495.74,Year-round
+Arunachal Pradesh,Striped Red Mullet,12.42,11.73,364.86 - 459.01,Year-round
+Arunachal Pradesh,Striped Red Mullet,13.19,31.17,490.6 - 609.4,Seasonal
+Arunachal Pradesh,Trout,14.27,13.03,225.23 - 345.33,Seasonal
+Arunachal Pradesh,Trout,10.95,36.76,243.98 - 345.31,Seasonal
+Arunachal Pradesh,Trout,19.8,21.23,311.19 - 442.47,Year-round
+Arunachal Pradesh,Trout,18.62,27.76,305.07 - 425.88,Year-round
+Arunachal Pradesh,Trout,16.66,26.75,327.27 - 467.9,Year-round
+Arunachal Pradesh,Trout,11.52,17.61,321.56 - 428.71,Seasonal
+Arunachal Pradesh,Shrimp,6.78,13.53,394.76 - 519.37,Year-round
+Arunachal Pradesh,Shrimp,8.56,22.01,343.31 - 401.6,Year-round
+Arunachal Pradesh,Shrimp,8.35,38.9,203.65 - 350.63,Year-round
+Arunachal Pradesh,Shrimp,9.84,11.3,477.39 - 619.3,Seasonal
+Arunachal Pradesh,Shrimp,13.31,39.08,356.93 - 469.87,Seasonal
+Arunachal Pradesh,Shrimp,9.42,39.87,409.08 - 497.5,Year-round
+Assam,Gilt Head Bream,5.68,18.43,485.12 - 624.15,Seasonal
+Assam,Gilt Head Bream,6.6,20.07,250.9 - 365.59,Seasonal
+Assam,Gilt Head Bream,10.3,27.51,223.32 - 370.76,Seasonal
+Assam,Gilt Head Bream,11.8,10.97,283.93 - 375.05,Year-round
+Assam,Gilt Head Bream,15.27,14.88,473.28 - 605.53,Seasonal
+Assam,Gilt Head Bream,11.25,27.43,475.75 - 534.03,Seasonal
+Assam,Red Sea Bream,17.99,11.36,207.91 - 295.56,Year-round
+Assam,Red Sea Bream,12.21,39.56,313.02 - 437.98,Year-round
+Assam,Red Sea Bream,19.55,35.26,451.5 - 548.37,Year-round
+Assam,Red Sea Bream,7.01,10.41,222.61 - 341.78,Year-round
+Assam,Red Sea Bream,20.0,39.9,366.63 - 493.53,Year-round
+Assam,Red Sea Bream,16.36,21.34,272.33 - 342.83,Year-round
+Assam,Sea Bass,19.31,28.19,268.59 - 385.76,Seasonal
+Assam,Sea Bass,5.7,18.06,206.66 - 306.47,Seasonal
+Assam,Sea Bass,16.58,25.6,455.65 - 560.85,Year-round
+Assam,Sea Bass,6.33,33.75,376.99 - 474.99,Year-round
+Assam,Sea Bass,16.33,28.61,411.22 - 482.52,Seasonal
+Assam,Sea Bass,14.26,39.41,382.43 - 496.09,Year-round
+Assam,Red Mullet,11.56,37.12,304.48 - 405.88,Seasonal
+Assam,Red Mullet,18.66,18.94,357.08 - 476.84,Year-round
+Assam,Red Mullet,7.21,37.8,347.63 - 423.46,Seasonal
+Assam,Red Mullet,5.69,28.62,304.22 - 375.14,Year-round
+Assam,Red Mullet,8.6,12.28,238.66 - 301.47,Year-round
+Assam,Red Mullet,11.0,30.93,254.02 - 373.67,Year-round
+Assam,Horse Mackerel,18.45,24.22,400.27 - 467.5,Seasonal
+Assam,Horse Mackerel,8.36,34.65,303.52 - 388.29,Seasonal
+Assam,Horse Mackerel,6.33,13.62,338.23 - 408.87,Seasonal
+Assam,Horse Mackerel,6.93,19.9,296.47 - 355.7,Year-round
+Assam,Horse Mackerel,14.42,12.45,462.07 - 604.16,Year-round
+Assam,Horse Mackerel,5.04,36.05,225.36 - 335.08,Seasonal
+Assam,Black Sea Sprat,8.14,21.11,345.36 - 457.18,Year-round
+Assam,Black Sea Sprat,12.97,31.62,218.7 - 283.48,Year-round
+Assam,Black Sea Sprat,15.7,36.86,353.5 - 456.71,Year-round
+Assam,Black Sea Sprat,18.01,20.62,319.15 - 379.64,Year-round
+Assam,Black Sea Sprat,10.66,10.6,296.62 - 367.77,Seasonal
+Assam,Black Sea Sprat,13.03,17.0,302.88 - 400.28,Seasonal
+Assam,Striped Red Mullet,16.84,24.95,226.08 - 329.79,Seasonal
+Assam,Striped Red Mullet,13.37,27.6,369.34 - 457.21,Year-round
+Assam,Striped Red Mullet,10.45,29.38,371.23 - 456.84,Year-round
+Assam,Striped Red Mullet,9.96,38.01,202.26 - 274.79,Seasonal
+Assam,Striped Red Mullet,8.69,14.82,255.97 - 334.48,Year-round
+Assam,Striped Red Mullet,5.83,35.27,215.49 - 267.31,Year-round
+Assam,Trout,19.74,13.36,319.36 - 466.3,Seasonal
+Assam,Trout,5.08,39.25,347.22 - 469.51,Seasonal
+Assam,Trout,18.94,26.7,371.48 - 449.48,Seasonal
+Assam,Trout,8.08,39.04,413.29 - 483.24,Seasonal
+Assam,Trout,8.64,13.45,383.19 - 462.05,Year-round
+Assam,Trout,12.59,37.96,296.19 - 405.58,Seasonal
+Assam,Shrimp,10.05,14.03,219.01 - 368.01,Year-round
+Assam,Shrimp,15.27,12.64,241.65 - 291.92,Year-round
+Assam,Shrimp,13.93,24.15,323.55 - 408.44,Year-round
+Assam,Shrimp,17.76,32.38,322.56 - 465.85,Year-round
+Assam,Shrimp,19.08,15.44,219.95 - 344.06,Seasonal
+Assam,Shrimp,5.72,33.45,448.38 - 573.43,Seasonal
+Bihar,Gilt Head Bream,7.45,14.93,444.37 - 560.89,Seasonal
+Bihar,Gilt Head Bream,18.62,19.49,376.49 - 494.79,Seasonal
+Bihar,Gilt Head Bream,11.59,21.31,338.8 - 418.94,Year-round
+Bihar,Gilt Head Bream,11.58,27.32,306.61 - 395.76,Seasonal
+Bihar,Gilt Head Bream,13.15,37.19,387.27 - 448.96,Seasonal
+Bihar,Gilt Head Bream,9.99,31.92,408.12 - 474.79,Year-round
+Bihar,Red Sea Bream,14.3,26.0,468.17 - 597.03,Seasonal
+Bihar,Red Sea Bream,16.29,31.21,433.57 - 497.88,Seasonal
+Bihar,Red Sea Bream,13.55,32.87,463.03 - 547.24,Seasonal
+Bihar,Red Sea Bream,13.05,21.36,337.1 - 447.5,Year-round
+Bihar,Red Sea Bream,16.96,14.5,268.78 - 391.0,Seasonal
+Bihar,Red Sea Bream,5.18,27.95,369.65 - 491.27,Year-round
+Bihar,Sea Bass,10.19,15.45,472.54 - 580.87,Seasonal
+Bihar,Sea Bass,11.35,18.64,384.49 - 525.67,Seasonal
+Bihar,Sea Bass,12.59,28.34,205.43 - 342.65,Seasonal
+Bihar,Sea Bass,6.53,37.56,437.03 - 489.33,Year-round
+Bihar,Sea Bass,7.29,27.29,382.01 - 474.43,Year-round
+Bihar,Sea Bass,6.56,35.21,473.21 - 535.49,Year-round
+Bihar,Red Mullet,19.77,35.17,237.4 - 379.48,Year-round
+Bihar,Red Mullet,9.67,16.82,382.37 - 470.3,Year-round
+Bihar,Red Mullet,10.03,34.09,201.39 - 284.74,Year-round
+Bihar,Red Mullet,11.22,35.91,476.89 - 573.46,Year-round
+Bihar,Red Mullet,16.06,23.57,267.38 - 362.63,Year-round
+Bihar,Red Mullet,8.72,27.33,249.65 - 303.04,Year-round
+Bihar,Horse Mackerel,10.44,27.42,389.68 - 440.99,Year-round
+Bihar,Horse Mackerel,12.73,39.27,337.7 - 443.43,Seasonal
+Bihar,Horse Mackerel,6.28,39.91,350.66 - 460.2,Year-round
+Bihar,Horse Mackerel,10.96,22.8,439.93 - 524.87,Seasonal
+Bihar,Horse Mackerel,7.86,11.1,341.62 - 448.1,Seasonal
+Bihar,Horse Mackerel,9.41,31.42,358.29 - 461.74,Year-round
+Bihar,Black Sea Sprat,11.01,26.79,246.57 - 314.76,Year-round
+Bihar,Black Sea Sprat,6.13,32.6,281.69 - 421.43,Seasonal
+Bihar,Black Sea Sprat,11.13,10.76,246.85 - 368.44,Year-round
+Bihar,Black Sea Sprat,11.12,26.55,276.17 - 345.78,Year-round
+Bihar,Black Sea Sprat,5.3,13.12,439.97 - 507.83,Year-round
+Bihar,Black Sea Sprat,13.35,31.62,441.59 - 590.47,Seasonal
+Bihar,Striped Red Mullet,17.84,34.91,319.16 - 435.96,Year-round
+Bihar,Striped Red Mullet,11.1,19.72,226.08 - 339.4,Year-round
+Bihar,Striped Red Mullet,8.12,10.8,254.43 - 362.73,Seasonal
+Bihar,Striped Red Mullet,15.56,37.32,387.43 - 471.01,Year-round
+Bihar,Striped Red Mullet,10.7,27.71,280.42 - 392.83,Seasonal
+Bihar,Striped Red Mullet,16.61,20.88,458.32 - 530.27,Seasonal
+Bihar,Trout,16.45,14.2,460.54 - 559.28,Seasonal
+Bihar,Trout,12.07,15.46,345.43 - 446.68,Year-round
+Bihar,Trout,13.12,29.0,277.37 - 341.3,Year-round
+Bihar,Trout,11.33,13.97,470.17 - 589.29,Year-round
+Bihar,Trout,5.28,37.43,235.33 - 342.98,Seasonal
+Bihar,Trout,6.01,22.16,349.24 - 471.26,Year-round
+Bihar,Shrimp,5.16,14.11,470.01 - 607.39,Seasonal
+Bihar,Shrimp,8.76,28.99,348.28 - 455.61,Year-round
+Bihar,Shrimp,11.28,21.49,355.68 - 410.37,Seasonal
+Bihar,Shrimp,19.38,15.53,227.1 - 354.2,Year-round
+Bihar,Shrimp,10.84,18.66,306.7 - 428.61,Year-round
+Bihar,Shrimp,14.16,38.48,318.99 - 464.4,Seasonal
+Chhattisgarh,Gilt Head Bream,15.99,16.45,209.35 - 285.58,Year-round
+Chhattisgarh,Gilt Head Bream,17.62,35.39,486.57 - 552.04,Year-round
+Chhattisgarh,Gilt Head Bream,16.56,13.2,222.54 - 345.36,Year-round
+Chhattisgarh,Gilt Head Bream,15.57,27.95,337.9 - 395.5,Seasonal
+Chhattisgarh,Gilt Head Bream,16.99,30.84,281.64 - 390.67,Year-round
+Chhattisgarh,Gilt Head Bream,9.72,34.22,488.63 - 617.63,Year-round
+Chhattisgarh,Red Sea Bream,11.69,15.55,362.57 - 499.86,Seasonal
+Chhattisgarh,Red Sea Bream,14.58,32.77,417.23 - 530.95,Seasonal
+Chhattisgarh,Red Sea Bream,8.75,24.68,266.36 - 415.13,Year-round
+Chhattisgarh,Red Sea Bream,15.05,11.32,376.48 - 526.41,Seasonal
+Chhattisgarh,Red Sea Bream,13.52,37.46,210.18 - 329.93,Year-round
+Chhattisgarh,Red Sea Bream,7.89,13.46,326.53 - 456.06,Year-round
+Chhattisgarh,Sea Bass,17.93,35.34,295.73 - 428.62,Year-round
+Chhattisgarh,Sea Bass,14.75,20.94,368.2 - 466.31,Year-round
+Chhattisgarh,Sea Bass,15.44,20.2,417.43 - 473.97,Year-round
+Chhattisgarh,Sea Bass,17.06,26.15,398.5 - 522.28,Year-round
+Chhattisgarh,Sea Bass,18.29,28.48,269.89 - 322.33,Seasonal
+Chhattisgarh,Sea Bass,19.86,10.01,255.64 - 344.04,Seasonal
+Chhattisgarh,Red Mullet,16.98,39.94,305.21 - 431.93,Year-round
+Chhattisgarh,Red Mullet,5.56,24.39,374.23 - 451.4,Year-round
+Chhattisgarh,Red Mullet,16.52,22.53,326.41 - 450.17,Seasonal
+Chhattisgarh,Red Mullet,5.05,24.02,289.1 - 424.38,Seasonal
+Chhattisgarh,Red Mullet,8.5,11.26,205.36 - 354.13,Year-round
+Chhattisgarh,Red Mullet,6.64,21.75,237.33 - 382.97,Year-round
+Chhattisgarh,Horse Mackerel,16.8,12.68,325.27 - 463.19,Seasonal
+Chhattisgarh,Horse Mackerel,14.01,37.11,496.76 - 621.09,Seasonal
+Chhattisgarh,Horse Mackerel,8.48,38.28,394.89 - 505.67,Year-round
+Chhattisgarh,Horse Mackerel,6.81,11.41,315.23 - 368.9,Seasonal
+Chhattisgarh,Horse Mackerel,16.69,20.5,217.35 - 364.26,Year-round
+Chhattisgarh,Horse Mackerel,12.77,27.92,357.51 - 433.53,Year-round
+Chhattisgarh,Black Sea Sprat,16.37,30.88,246.17 - 377.75,Seasonal
+Chhattisgarh,Black Sea Sprat,14.34,32.44,210.46 - 349.95,Year-round
+Chhattisgarh,Black Sea Sprat,6.37,36.32,279.68 - 342.63,Year-round
+Chhattisgarh,Black Sea Sprat,5.67,35.57,210.63 - 293.53,Year-round
+Chhattisgarh,Black Sea Sprat,13.26,12.61,322.54 - 409.8,Seasonal
+Chhattisgarh,Black Sea Sprat,15.44,11.46,359.78 - 505.99,Seasonal
+Chhattisgarh,Striped Red Mullet,15.25,12.28,455.36 - 554.88,Seasonal
+Chhattisgarh,Striped Red Mullet,12.74,37.2,371.4 - 487.61,Seasonal
+Chhattisgarh,Striped Red Mullet,13.49,18.01,463.59 - 593.33,Seasonal
+Chhattisgarh,Striped Red Mullet,8.68,14.72,248.12 - 331.52,Year-round
+Chhattisgarh,Striped Red Mullet,15.46,30.4,385.58 - 510.86,Year-round
+Chhattisgarh,Striped Red Mullet,18.22,38.84,339.64 - 477.55,Seasonal
+Chhattisgarh,Trout,6.93,20.05,423.05 - 489.13,Seasonal
+Chhattisgarh,Trout,13.34,32.7,277.61 - 346.92,Year-round
+Chhattisgarh,Trout,14.25,39.44,389.54 - 465.52,Seasonal
+Chhattisgarh,Trout,5.14,34.56,238.53 - 316.87,Year-round
+Chhattisgarh,Trout,13.12,38.89,302.56 - 415.82,Seasonal
+Chhattisgarh,Trout,16.31,33.66,252.13 - 379.21,Seasonal
+Chhattisgarh,Shrimp,9.51,31.25,220.21 - 328.42,Year-round
+Chhattisgarh,Shrimp,5.87,12.24,455.72 - 604.74,Year-round
+Chhattisgarh,Shrimp,19.53,32.49,239.03 - 364.85,Year-round
+Chhattisgarh,Shrimp,5.98,34.65,311.55 - 443.43,Year-round
+Chhattisgarh,Shrimp,15.25,23.38,282.09 - 431.8,Year-round
+Chhattisgarh,Shrimp,6.53,35.63,358.11 - 490.7,Year-round
+Goa,Gilt Head Bream,8.31,12.47,404.15 - 519.6,Year-round
+Goa,Gilt Head Bream,18.02,38.9,209.39 - 332.52,Year-round
+Goa,Gilt Head Bream,11.3,29.16,319.28 - 396.7,Year-round
+Goa,Gilt Head Bream,9.68,19.62,417.33 - 541.91,Year-round
+Goa,Gilt Head Bream,5.47,29.55,310.56 - 446.99,Seasonal
+Goa,Gilt Head Bream,13.15,14.78,261.11 - 320.23,Seasonal
+Goa,Red Sea Bream,16.56,35.34,428.31 - 540.93,Seasonal
+Goa,Red Sea Bream,9.41,37.36,490.25 - 558.8,Year-round
+Goa,Red Sea Bream,12.22,13.52,237.56 - 356.11,Seasonal
+Goa,Red Sea Bream,13.38,16.77,248.25 - 363.4,Year-round
+Goa,Red Sea Bream,9.03,33.93,293.11 - 388.63,Seasonal
+Goa,Red Sea Bream,11.97,30.41,318.66 - 466.13,Seasonal
+Goa,Sea Bass,9.37,30.85,458.04 - 586.02,Seasonal
+Goa,Sea Bass,15.86,32.47,243.78 - 304.06,Seasonal
+Goa,Sea Bass,7.14,24.97,385.45 - 505.69,Seasonal
+Goa,Sea Bass,16.64,38.24,221.72 - 325.15,Year-round
+Goa,Sea Bass,10.26,11.0,223.57 - 313.27,Seasonal
+Goa,Sea Bass,19.66,16.03,407.96 - 540.1,Seasonal
+Goa,Red Mullet,7.51,13.14,390.93 - 511.58,Seasonal
+Goa,Red Mullet,13.92,28.5,383.88 - 463.77,Seasonal
+Goa,Red Mullet,18.06,31.42,440.52 - 524.46,Year-round
+Goa,Red Mullet,12.27,29.82,365.9 - 475.65,Seasonal
+Goa,Red Mullet,11.78,29.31,357.92 - 481.08,Year-round
+Goa,Red Mullet,15.87,27.8,395.09 - 493.02,Year-round
+Goa,Horse Mackerel,8.29,39.28,301.07 - 369.28,Year-round
+Goa,Horse Mackerel,11.5,11.31,248.5 - 300.59,Year-round
+Goa,Horse Mackerel,8.43,39.89,492.44 - 607.47,Seasonal
+Goa,Horse Mackerel,11.05,16.62,325.52 - 395.88,Year-round
+Goa,Horse Mackerel,11.94,36.05,418.15 - 542.42,Seasonal
+Goa,Horse Mackerel,14.43,32.06,430.32 - 530.8,Seasonal
+Goa,Black Sea Sprat,18.01,27.36,331.58 - 454.11,Seasonal
+Goa,Black Sea Sprat,14.09,27.93,437.89 - 553.39,Year-round
+Goa,Black Sea Sprat,13.89,37.37,263.2 - 375.5,Seasonal
+Goa,Black Sea Sprat,17.54,17.07,432.8 - 523.33,Seasonal
+Goa,Black Sea Sprat,7.7,17.13,491.42 - 559.52,Year-round
+Goa,Black Sea Sprat,6.04,23.11,229.22 - 319.72,Seasonal
+Goa,Striped Red Mullet,12.72,20.78,377.89 - 444.24,Year-round
+Goa,Striped Red Mullet,9.68,21.97,457.4 - 508.3,Year-round
+Goa,Striped Red Mullet,16.6,13.93,490.95 - 586.33,Year-round
+Goa,Striped Red Mullet,18.26,23.26,299.27 - 394.14,Seasonal
+Goa,Striped Red Mullet,17.43,22.93,274.61 - 386.33,Year-round
+Goa,Striped Red Mullet,8.79,20.78,313.81 - 424.36,Year-round
+Goa,Trout,14.96,24.24,453.25 - 583.82,Seasonal
+Goa,Trout,17.96,26.74,361.97 - 415.39,Seasonal
+Goa,Trout,5.86,25.94,480.98 - 534.92,Year-round
+Goa,Trout,8.37,15.4,226.57 - 286.9,Year-round
+Goa,Trout,5.62,14.45,495.99 - 642.5,Year-round
+Goa,Trout,5.26,19.69,491.93 - 599.94,Seasonal
+Goa,Shrimp,12.73,24.67,400.06 - 464.02,Seasonal
+Goa,Shrimp,6.99,14.31,481.95 - 605.24,Seasonal
+Goa,Shrimp,19.55,12.82,401.78 - 496.16,Year-round
+Goa,Shrimp,19.45,17.66,398.49 - 546.35,Year-round
+Goa,Shrimp,15.25,24.92,385.35 - 522.24,Seasonal
+Goa,Shrimp,16.53,13.39,438.65 - 580.52,Year-round
+Gujarat,Gilt Head Bream,8.24,29.77,318.16 - 433.28,Seasonal
+Gujarat,Gilt Head Bream,10.23,14.78,381.49 - 463.3,Year-round
+Gujarat,Gilt Head Bream,11.1,36.12,434.72 - 541.42,Year-round
+Gujarat,Gilt Head Bream,6.64,29.52,429.56 - 572.12,Year-round
+Gujarat,Gilt Head Bream,17.12,32.87,439.34 - 532.9,Year-round
+Gujarat,Gilt Head Bream,10.64,18.91,394.72 - 477.56,Year-round
+Gujarat,Red Sea Bream,10.5,21.89,408.64 - 497.5,Year-round
+Gujarat,Red Sea Bream,13.95,26.37,333.33 - 384.79,Year-round
+Gujarat,Red Sea Bream,14.05,30.05,385.85 - 482.2,Year-round
+Gujarat,Red Sea Bream,13.14,38.54,454.15 - 595.57,Year-round
+Gujarat,Red Sea Bream,10.12,21.41,319.65 - 427.66,Seasonal
+Gujarat,Red Sea Bream,12.15,21.83,364.82 - 489.51,Seasonal
+Gujarat,Sea Bass,19.33,10.55,258.73 - 309.49,Year-round
+Gujarat,Sea Bass,6.07,38.64,396.41 - 484.42,Seasonal
+Gujarat,Sea Bass,19.02,20.55,230.43 - 329.01,Seasonal
+Gujarat,Sea Bass,12.85,30.1,478.88 - 582.11,Seasonal
+Gujarat,Sea Bass,9.67,28.31,414.85 - 492.11,Seasonal
+Gujarat,Sea Bass,17.35,25.67,236.97 - 372.91,Year-round
+Gujarat,Red Mullet,12.88,31.27,232.06 - 338.79,Seasonal
+Gujarat,Red Mullet,18.77,22.74,226.11 - 357.69,Seasonal
+Gujarat,Red Mullet,5.65,28.99,485.42 - 595.58,Seasonal
+Gujarat,Red Mullet,12.73,27.81,438.12 - 552.78,Seasonal
+Gujarat,Red Mullet,11.17,35.2,470.01 - 555.35,Seasonal
+Gujarat,Red Mullet,8.83,19.06,419.59 - 554.7,Year-round
+Gujarat,Horse Mackerel,15.01,12.87,387.16 - 482.33,Seasonal
+Gujarat,Horse Mackerel,7.29,17.06,460.78 - 558.07,Year-round
+Gujarat,Horse Mackerel,6.44,10.71,392.59 - 503.3,Seasonal
+Gujarat,Horse Mackerel,14.57,17.71,389.6 - 445.45,Year-round
+Gujarat,Horse Mackerel,19.82,14.09,408.54 - 498.98,Seasonal
+Gujarat,Horse Mackerel,11.69,31.74,204.75 - 288.86,Seasonal
+Gujarat,Black Sea Sprat,6.56,31.73,373.52 - 450.93,Seasonal
+Gujarat,Black Sea Sprat,8.97,29.36,378.73 - 468.84,Year-round
+Gujarat,Black Sea Sprat,8.4,20.65,220.83 - 322.73,Seasonal
+Gujarat,Black Sea Sprat,15.04,12.1,392.05 - 469.17,Seasonal
+Gujarat,Black Sea Sprat,14.76,25.99,297.3 - 380.6,Seasonal
+Gujarat,Black Sea Sprat,5.79,21.35,308.88 - 458.43,Year-round
+Gujarat,Striped Red Mullet,11.98,11.8,368.69 - 514.45,Year-round
+Gujarat,Striped Red Mullet,14.52,32.65,251.14 - 342.09,Seasonal
+Gujarat,Striped Red Mullet,11.76,32.68,304.27 - 420.76,Seasonal
+Gujarat,Striped Red Mullet,12.12,21.48,235.95 - 383.37,Seasonal
+Gujarat,Striped Red Mullet,19.89,37.81,361.99 - 496.19,Year-round
+Gujarat,Striped Red Mullet,6.39,17.71,436.37 - 572.84,Year-round
+Gujarat,Trout,17.39,33.46,412.62 - 466.24,Year-round
+Gujarat,Trout,8.41,20.25,314.27 - 398.91,Year-round
+Gujarat,Trout,13.31,19.17,319.09 - 413.81,Seasonal
+Gujarat,Trout,18.1,14.85,435.88 - 543.34,Seasonal
+Gujarat,Trout,17.77,16.26,479.18 - 540.82,Seasonal
+Gujarat,Trout,14.42,30.23,359.74 - 481.89,Year-round
+Gujarat,Shrimp,16.85,19.14,224.28 - 314.57,Seasonal
+Gujarat,Shrimp,7.31,16.71,487.2 - 594.5,Seasonal
+Gujarat,Shrimp,17.34,13.98,458.6 - 600.88,Seasonal
+Gujarat,Shrimp,7.09,36.95,448.8 - 530.55,Year-round
+Gujarat,Shrimp,10.98,14.39,310.26 - 367.08,Seasonal
+Gujarat,Shrimp,12.59,16.98,223.99 - 351.66,Seasonal
+Haryana,Gilt Head Bream,11.49,19.35,351.84 - 445.79,Seasonal
+Haryana,Gilt Head Bream,17.77,10.01,205.31 - 315.56,Year-round
+Haryana,Gilt Head Bream,7.28,11.84,434.23 - 530.21,Seasonal
+Haryana,Gilt Head Bream,12.27,32.63,385.85 - 465.58,Year-round
+Haryana,Gilt Head Bream,8.59,14.27,236.42 - 316.74,Year-round
+Haryana,Gilt Head Bream,7.67,30.75,385.42 - 498.73,Seasonal
+Haryana,Red Sea Bream,17.21,28.46,291.88 - 404.27,Seasonal
+Haryana,Red Sea Bream,17.72,31.73,437.63 - 528.11,Seasonal
+Haryana,Red Sea Bream,7.92,21.03,324.24 - 456.99,Year-round
+Haryana,Red Sea Bream,10.81,38.91,274.57 - 337.95,Year-round
+Haryana,Red Sea Bream,5.29,17.79,428.09 - 491.8,Year-round
+Haryana,Red Sea Bream,14.28,19.71,450.29 - 563.22,Year-round
+Haryana,Sea Bass,17.02,38.79,346.36 - 407.33,Seasonal
+Haryana,Sea Bass,14.69,24.98,279.81 - 344.73,Seasonal
+Haryana,Sea Bass,7.25,19.74,421.21 - 518.81,Year-round
+Haryana,Sea Bass,14.21,35.79,317.72 - 463.34,Year-round
+Haryana,Sea Bass,19.33,33.61,294.62 - 413.44,Seasonal
+Haryana,Sea Bass,6.15,18.38,479.1 - 554.4,Seasonal
+Haryana,Red Mullet,11.92,29.12,397.81 - 537.32,Seasonal
+Haryana,Red Mullet,8.4,36.68,335.19 - 473.43,Year-round
+Haryana,Red Mullet,16.06,25.37,404.07 - 458.24,Year-round
+Haryana,Red Mullet,16.19,29.77,440.64 - 501.18,Year-round
+Haryana,Red Mullet,19.35,32.13,305.98 - 385.63,Year-round
+Haryana,Red Mullet,19.56,38.27,435.15 - 520.64,Seasonal
+Haryana,Horse Mackerel,6.48,29.81,429.31 - 505.82,Seasonal
+Haryana,Horse Mackerel,6.24,25.44,469.67 - 597.92,Seasonal
+Haryana,Horse Mackerel,14.37,21.46,261.71 - 323.84,Seasonal
+Haryana,Horse Mackerel,8.91,12.08,487.95 - 585.77,Year-round
+Haryana,Horse Mackerel,19.53,33.96,287.85 - 435.84,Seasonal
+Haryana,Horse Mackerel,12.29,37.61,356.23 - 467.88,Seasonal
+Haryana,Black Sea Sprat,6.92,20.15,478.43 - 550.89,Year-round
+Haryana,Black Sea Sprat,10.64,26.5,316.6 - 382.96,Seasonal
+Haryana,Black Sea Sprat,8.61,13.65,259.24 - 397.93,Seasonal
+Haryana,Black Sea Sprat,19.89,30.14,295.08 - 433.0,Seasonal
+Haryana,Black Sea Sprat,18.78,17.57,426.51 - 522.57,Seasonal
+Haryana,Black Sea Sprat,16.22,26.73,254.18 - 309.56,Seasonal
+Haryana,Striped Red Mullet,13.18,39.54,481.22 - 535.53,Seasonal
+Haryana,Striped Red Mullet,6.62,30.56,227.56 - 374.07,Year-round
+Haryana,Striped Red Mullet,12.59,35.22,419.84 - 524.06,Year-round
+Haryana,Striped Red Mullet,16.15,28.36,231.78 - 296.94,Seasonal
+Haryana,Striped Red Mullet,18.1,29.09,428.34 - 494.34,Seasonal
+Haryana,Striped Red Mullet,13.37,34.35,422.51 - 560.66,Seasonal
+Haryana,Trout,6.49,22.04,440.02 - 510.42,Seasonal
+Haryana,Trout,16.14,34.45,384.49 - 503.28,Seasonal
+Haryana,Trout,16.76,26.63,201.57 - 327.67,Seasonal
+Haryana,Trout,17.49,10.33,424.86 - 550.73,Seasonal
+Haryana,Trout,9.9,14.47,291.68 - 429.35,Year-round
+Haryana,Trout,6.87,21.56,393.01 - 521.05,Seasonal
+Haryana,Shrimp,13.9,21.75,323.79 - 443.35,Year-round
+Haryana,Shrimp,5.44,15.01,254.4 - 343.16,Year-round
+Haryana,Shrimp,13.82,24.43,392.7 - 449.18,Seasonal
+Haryana,Shrimp,8.38,31.09,215.84 - 314.5,Seasonal
+Haryana,Shrimp,17.07,18.09,447.51 - 547.34,Seasonal
+Haryana,Shrimp,7.23,30.86,423.78 - 571.97,Year-round
+Himachal Pradesh,Gilt Head Bream,16.83,25.52,332.06 - 396.8,Year-round
+Himachal Pradesh,Gilt Head Bream,16.03,17.08,311.43 - 367.68,Seasonal
+Himachal Pradesh,Gilt Head Bream,16.03,39.95,479.93 - 594.19,Year-round
+Himachal Pradesh,Gilt Head Bream,14.56,24.88,253.48 - 372.07,Year-round
+Himachal Pradesh,Gilt Head Bream,17.6,21.51,371.56 - 480.34,Year-round
+Himachal Pradesh,Gilt Head Bream,13.48,39.39,249.59 - 369.61,Seasonal
+Himachal Pradesh,Red Sea Bream,17.48,18.19,355.42 - 435.3,Year-round
+Himachal Pradesh,Red Sea Bream,5.84,35.58,267.66 - 355.35,Seasonal
+Himachal Pradesh,Red Sea Bream,7.79,34.08,337.46 - 435.75,Seasonal
+Himachal Pradesh,Red Sea Bream,14.47,11.5,471.17 - 612.11,Seasonal
+Himachal Pradesh,Red Sea Bream,15.94,32.97,247.67 - 358.69,Seasonal
+Himachal Pradesh,Red Sea Bream,10.98,37.68,341.62 - 392.96,Seasonal
+Himachal Pradesh,Sea Bass,5.86,18.47,278.51 - 353.21,Seasonal
+Himachal Pradesh,Sea Bass,16.81,39.25,311.36 - 404.25,Year-round
+Himachal Pradesh,Sea Bass,16.65,11.96,346.27 - 399.63,Seasonal
+Himachal Pradesh,Sea Bass,14.3,26.86,303.78 - 385.3,Year-round
+Himachal Pradesh,Sea Bass,10.21,37.0,206.55 - 322.93,Seasonal
+Himachal Pradesh,Sea Bass,6.92,36.46,318.03 - 450.82,Seasonal
+Himachal Pradesh,Red Mullet,8.9,31.92,494.39 - 570.04,Year-round
+Himachal Pradesh,Red Mullet,15.88,15.74,301.48 - 382.35,Year-round
+Himachal Pradesh,Red Mullet,14.13,20.49,234.23 - 299.35,Seasonal
+Himachal Pradesh,Red Mullet,11.27,12.67,405.13 - 509.64,Seasonal
+Himachal Pradesh,Red Mullet,6.72,35.8,416.84 - 473.61,Seasonal
+Himachal Pradesh,Red Mullet,13.23,28.39,267.84 - 402.54,Seasonal
+Himachal Pradesh,Horse Mackerel,7.49,38.37,454.99 - 571.89,Seasonal
+Himachal Pradesh,Horse Mackerel,17.93,23.8,424.79 - 503.84,Year-round
+Himachal Pradesh,Horse Mackerel,12.69,34.19,337.77 - 392.97,Year-round
+Himachal Pradesh,Horse Mackerel,12.46,20.19,461.64 - 566.13,Seasonal
+Himachal Pradesh,Horse Mackerel,16.35,25.58,261.46 - 399.25,Seasonal
+Himachal Pradesh,Horse Mackerel,7.42,17.66,483.99 - 590.01,Seasonal
+Himachal Pradesh,Black Sea Sprat,16.58,10.82,219.56 - 315.95,Seasonal
+Himachal Pradesh,Black Sea Sprat,9.24,21.72,439.5 - 526.7,Year-round
+Himachal Pradesh,Black Sea Sprat,17.33,21.41,432.68 - 579.13,Seasonal
+Himachal Pradesh,Black Sea Sprat,7.8,12.82,307.0 - 432.75,Year-round
+Himachal Pradesh,Black Sea Sprat,14.52,33.94,318.79 - 460.3,Seasonal
+Himachal Pradesh,Black Sea Sprat,12.8,23.43,367.35 - 433.95,Seasonal
+Himachal Pradesh,Striped Red Mullet,17.86,37.18,283.07 - 431.42,Year-round
+Himachal Pradesh,Striped Red Mullet,13.97,11.0,309.11 - 432.37,Seasonal
+Himachal Pradesh,Striped Red Mullet,7.28,23.21,384.59 - 442.94,Seasonal
+Himachal Pradesh,Striped Red Mullet,6.76,32.19,295.9 - 444.74,Year-round
+Himachal Pradesh,Striped Red Mullet,19.76,30.04,390.4 - 457.0,Seasonal
+Himachal Pradesh,Striped Red Mullet,19.7,29.68,238.95 - 357.63,Year-round
+Himachal Pradesh,Trout,12.91,31.58,467.08 - 525.02,Year-round
+Himachal Pradesh,Trout,19.6,20.11,288.95 - 430.77,Seasonal
+Himachal Pradesh,Trout,15.65,19.43,341.35 - 473.51,Seasonal
+Himachal Pradesh,Trout,9.71,17.63,445.78 - 583.76,Seasonal
+Himachal Pradesh,Trout,7.61,31.36,447.79 - 507.86,Year-round
+Himachal Pradesh,Trout,11.3,37.16,421.9 - 491.03,Year-round
+Himachal Pradesh,Shrimp,14.77,28.63,305.71 - 439.86,Year-round
+Himachal Pradesh,Shrimp,17.66,17.62,209.33 - 333.26,Seasonal
+Himachal Pradesh,Shrimp,9.88,30.59,220.89 - 288.38,Year-round
+Himachal Pradesh,Shrimp,14.83,39.75,221.8 - 279.51,Year-round
+Himachal Pradesh,Shrimp,15.41,25.38,291.59 - 362.86,Year-round
+Himachal Pradesh,Shrimp,16.45,22.25,427.77 - 568.14,Year-round
+Jharkhand,Gilt Head Bream,16.49,33.65,399.5 - 475.52,Year-round
+Jharkhand,Gilt Head Bream,18.11,10.01,250.72 - 339.7,Seasonal
+Jharkhand,Gilt Head Bream,11.91,35.94,363.99 - 452.03,Seasonal
+Jharkhand,Gilt Head Bream,17.04,24.37,205.4 - 297.54,Seasonal
+Jharkhand,Gilt Head Bream,18.77,18.4,457.5 - 536.72,Year-round
+Jharkhand,Gilt Head Bream,17.39,30.98,451.84 - 600.02,Seasonal
+Jharkhand,Red Sea Bream,15.9,19.14,448.82 - 526.97,Year-round
+Jharkhand,Red Sea Bream,11.75,16.55,236.07 - 292.91,Year-round
+Jharkhand,Red Sea Bream,8.63,10.37,340.63 - 420.76,Year-round
+Jharkhand,Red Sea Bream,6.11,16.79,419.07 - 528.95,Year-round
+Jharkhand,Red Sea Bream,18.54,35.57,400.34 - 509.66,Year-round
+Jharkhand,Red Sea Bream,19.84,28.79,359.39 - 493.21,Seasonal
+Jharkhand,Sea Bass,5.52,27.48,498.63 - 634.2,Year-round
+Jharkhand,Sea Bass,14.88,17.57,266.07 - 364.91,Year-round
+Jharkhand,Sea Bass,6.41,37.29,400.76 - 533.69,Seasonal
+Jharkhand,Sea Bass,19.34,10.75,408.34 - 466.56,Seasonal
+Jharkhand,Sea Bass,11.52,33.22,380.58 - 519.83,Year-round
+Jharkhand,Sea Bass,7.56,38.44,333.57 - 462.45,Year-round
+Jharkhand,Red Mullet,8.56,25.37,231.27 - 319.72,Year-round
+Jharkhand,Red Mullet,19.56,17.88,281.47 - 378.76,Year-round
+Jharkhand,Red Mullet,12.59,29.02,221.28 - 296.72,Year-round
+Jharkhand,Red Mullet,5.6,28.12,472.21 - 546.1,Seasonal
+Jharkhand,Red Mullet,19.57,19.94,344.61 - 414.22,Year-round
+Jharkhand,Red Mullet,11.71,24.23,377.26 - 480.96,Year-round
+Jharkhand,Horse Mackerel,5.11,16.57,211.02 - 271.82,Seasonal
+Jharkhand,Horse Mackerel,11.94,23.16,265.55 - 355.23,Seasonal
+Jharkhand,Horse Mackerel,18.98,21.91,226.13 - 337.83,Seasonal
+Jharkhand,Horse Mackerel,12.97,36.4,372.43 - 425.4,Seasonal
+Jharkhand,Horse Mackerel,15.53,39.78,239.45 - 316.92,Year-round
+Jharkhand,Horse Mackerel,10.85,31.9,464.68 - 581.77,Year-round
+Jharkhand,Black Sea Sprat,14.12,19.28,447.14 - 592.64,Seasonal
+Jharkhand,Black Sea Sprat,15.82,35.89,200.63 - 322.39,Year-round
+Jharkhand,Black Sea Sprat,5.89,28.11,405.98 - 467.43,Seasonal
+Jharkhand,Black Sea Sprat,17.01,29.88,227.69 - 337.32,Seasonal
+Jharkhand,Black Sea Sprat,16.27,12.13,224.05 - 309.53,Year-round
+Jharkhand,Black Sea Sprat,11.19,29.38,393.94 - 532.74,Year-round
+Jharkhand,Striped Red Mullet,5.15,29.08,473.99 - 585.24,Seasonal
+Jharkhand,Striped Red Mullet,7.58,29.14,422.29 - 525.29,Year-round
+Jharkhand,Striped Red Mullet,13.01,14.26,203.51 - 295.72,Year-round
+Jharkhand,Striped Red Mullet,11.73,12.53,319.81 - 460.82,Seasonal
+Jharkhand,Striped Red Mullet,13.38,20.3,418.75 - 533.98,Seasonal
+Jharkhand,Striped Red Mullet,10.81,35.56,321.17 - 378.93,Year-round
+Jharkhand,Trout,9.59,33.67,333.93 - 463.76,Year-round
+Jharkhand,Trout,11.75,27.38,427.81 - 487.69,Year-round
+Jharkhand,Trout,13.73,21.14,380.32 - 500.88,Year-round
+Jharkhand,Trout,12.89,25.35,249.69 - 364.26,Year-round
+Jharkhand,Trout,18.35,20.38,246.34 - 298.88,Seasonal
+Jharkhand,Trout,10.68,10.2,315.76 - 444.93,Year-round
+Jharkhand,Shrimp,9.67,30.31,381.73 - 468.19,Seasonal
+Jharkhand,Shrimp,13.7,26.79,231.58 - 298.31,Seasonal
+Jharkhand,Shrimp,12.28,10.83,351.64 - 498.04,Seasonal
+Jharkhand,Shrimp,6.49,16.27,477.69 - 569.11,Year-round
+Jharkhand,Shrimp,5.35,32.69,337.56 - 416.48,Year-round
+Jharkhand,Shrimp,17.53,21.11,312.44 - 409.84,Seasonal
+Karnataka,Gilt Head Bream,14.04,34.8,495.2 - 574.04,Year-round
+Karnataka,Gilt Head Bream,7.27,10.93,491.22 - 618.58,Year-round
+Karnataka,Gilt Head Bream,7.31,26.61,362.51 - 488.7,Year-round
+Karnataka,Gilt Head Bream,17.58,20.69,448.04 - 568.95,Seasonal
+Karnataka,Gilt Head Bream,5.86,20.27,281.07 - 427.72,Year-round
+Karnataka,Gilt Head Bream,13.17,14.96,374.9 - 524.87,Year-round
+Karnataka,Red Sea Bream,14.39,24.67,320.53 - 469.92,Seasonal
+Karnataka,Red Sea Bream,9.51,19.77,437.76 - 533.9,Year-round
+Karnataka,Red Sea Bream,10.93,11.18,342.66 - 446.97,Year-round
+Karnataka,Red Sea Bream,6.99,27.79,379.74 - 465.08,Year-round
+Karnataka,Red Sea Bream,18.05,13.92,437.15 - 499.64,Year-round
+Karnataka,Red Sea Bream,15.21,24.0,210.34 - 357.3,Year-round
+Karnataka,Sea Bass,11.94,39.43,345.02 - 481.38,Year-round
+Karnataka,Sea Bass,9.54,24.74,356.73 - 463.0,Year-round
+Karnataka,Sea Bass,10.8,25.34,347.7 - 455.43,Year-round
+Karnataka,Sea Bass,18.42,23.68,333.04 - 443.25,Year-round
+Karnataka,Sea Bass,13.6,38.68,260.14 - 321.07,Seasonal
+Karnataka,Sea Bass,5.05,29.21,289.53 - 363.57,Year-round
+Karnataka,Red Mullet,18.25,23.45,353.13 - 465.79,Year-round
+Karnataka,Red Mullet,16.01,32.88,478.78 - 531.83,Year-round
+Karnataka,Red Mullet,15.39,14.03,289.82 - 375.69,Seasonal
+Karnataka,Red Mullet,10.0,31.99,358.57 - 487.91,Year-round
+Karnataka,Red Mullet,19.97,30.3,448.54 - 528.0,Year-round
+Karnataka,Red Mullet,5.66,20.25,389.87 - 446.77,Year-round
+Karnataka,Horse Mackerel,16.3,33.07,397.56 - 524.17,Seasonal
+Karnataka,Horse Mackerel,15.5,13.13,319.73 - 442.05,Seasonal
+Karnataka,Horse Mackerel,11.11,22.21,219.8 - 304.69,Year-round
+Karnataka,Horse Mackerel,14.48,27.31,409.33 - 459.94,Year-round
+Karnataka,Horse Mackerel,12.84,18.99,223.06 - 323.12,Seasonal
+Karnataka,Horse Mackerel,8.63,24.35,243.56 - 364.57,Seasonal
+Karnataka,Black Sea Sprat,9.43,16.97,284.3 - 414.65,Seasonal
+Karnataka,Black Sea Sprat,7.28,17.99,206.61 - 314.93,Year-round
+Karnataka,Black Sea Sprat,8.39,29.21,493.69 - 604.04,Year-round
+Karnataka,Black Sea Sprat,11.24,32.79,256.35 - 378.33,Seasonal
+Karnataka,Black Sea Sprat,11.74,27.58,387.44 - 444.61,Seasonal
+Karnataka,Black Sea Sprat,12.89,23.9,270.4 - 350.72,Year-round
+Karnataka,Striped Red Mullet,13.29,25.61,242.86 - 370.4,Seasonal
+Karnataka,Striped Red Mullet,11.02,14.76,464.6 - 596.98,Year-round
+Karnataka,Striped Red Mullet,5.81,32.46,295.28 - 345.29,Seasonal
+Karnataka,Striped Red Mullet,16.75,31.45,378.05 - 517.62,Seasonal
+Karnataka,Striped Red Mullet,17.59,10.11,274.05 - 398.14,Year-round
+Karnataka,Striped Red Mullet,18.96,34.8,238.98 - 345.48,Seasonal
+Karnataka,Trout,9.7,33.67,467.56 - 560.94,Year-round
+Karnataka,Trout,10.66,38.09,402.54 - 464.14,Year-round
+Karnataka,Trout,12.41,21.63,389.81 - 510.2,Seasonal
+Karnataka,Trout,7.09,17.63,462.65 - 530.93,Seasonal
+Karnataka,Trout,16.42,38.52,410.76 - 490.57,Year-round
+Karnataka,Trout,12.13,29.03,499.84 - 560.32,Seasonal
+Karnataka,Shrimp,19.35,25.01,329.82 - 425.59,Seasonal
+Karnataka,Shrimp,14.52,33.12,200.86 - 336.76,Year-round
+Karnataka,Shrimp,11.25,34.67,455.1 - 526.3,Year-round
+Karnataka,Shrimp,18.05,31.91,394.31 - 523.94,Year-round
+Karnataka,Shrimp,14.12,18.86,240.98 - 356.14,Seasonal
+Karnataka,Shrimp,16.06,39.24,215.66 - 333.88,Seasonal
+Kerala,Gilt Head Bream,7.99,36.71,286.22 - 373.0,Year-round
+Kerala,Gilt Head Bream,17.35,33.46,363.14 - 423.13,Seasonal
+Kerala,Gilt Head Bream,5.22,21.37,301.2 - 353.14,Seasonal
+Kerala,Gilt Head Bream,19.23,10.94,420.86 - 503.88,Seasonal
+Kerala,Gilt Head Bream,13.93,10.3,339.23 - 485.58,Seasonal
+Kerala,Gilt Head Bream,10.96,32.87,336.48 - 413.2,Year-round
+Kerala,Red Sea Bream,12.82,39.28,237.67 - 289.36,Year-round
+Kerala,Red Sea Bream,10.74,21.03,254.52 - 348.07,Seasonal
+Kerala,Red Sea Bream,9.4,33.19,355.39 - 440.2,Seasonal
+Kerala,Red Sea Bream,13.56,27.04,398.9 - 503.74,Seasonal
+Kerala,Red Sea Bream,17.71,10.71,469.57 - 597.89,Year-round
+Kerala,Red Sea Bream,9.37,16.21,245.7 - 385.64,Year-round
+Kerala,Sea Bass,8.42,17.4,345.22 - 469.97,Year-round
+Kerala,Sea Bass,15.07,27.47,497.06 - 570.98,Seasonal
+Kerala,Sea Bass,19.87,26.33,488.83 - 546.39,Year-round
+Kerala,Sea Bass,8.07,31.77,385.92 - 525.53,Year-round
+Kerala,Sea Bass,16.72,27.35,244.09 - 375.2,Seasonal
+Kerala,Sea Bass,18.6,14.92,392.85 - 523.83,Year-round
+Kerala,Red Mullet,18.76,18.72,341.0 - 480.01,Year-round
+Kerala,Red Mullet,15.35,30.7,479.18 - 578.91,Year-round
+Kerala,Red Mullet,11.72,14.03,487.38 - 590.35,Year-round
+Kerala,Red Mullet,10.31,38.47,488.69 - 600.78,Seasonal
+Kerala,Red Mullet,17.1,23.79,363.97 - 457.25,Seasonal
+Kerala,Red Mullet,13.41,35.92,344.4 - 484.17,Seasonal
+Kerala,Horse Mackerel,17.65,39.44,437.94 - 573.32,Seasonal
+Kerala,Horse Mackerel,14.89,13.27,390.96 - 490.79,Seasonal
+Kerala,Horse Mackerel,15.68,39.43,370.86 - 446.82,Year-round
+Kerala,Horse Mackerel,18.79,15.28,264.19 - 315.49,Seasonal
+Kerala,Horse Mackerel,7.85,33.78,472.37 - 616.74,Year-round
+Kerala,Horse Mackerel,10.93,38.59,490.12 - 579.4,Seasonal
+Kerala,Black Sea Sprat,12.15,31.55,274.2 - 388.26,Year-round
+Kerala,Black Sea Sprat,16.72,38.81,429.07 - 564.59,Seasonal
+Kerala,Black Sea Sprat,5.18,10.27,307.11 - 449.73,Seasonal
+Kerala,Black Sea Sprat,17.07,11.38,442.42 - 510.21,Year-round
+Kerala,Black Sea Sprat,15.93,12.86,328.61 - 381.53,Year-round
+Kerala,Black Sea Sprat,18.42,10.01,470.41 - 535.8,Year-round
+Kerala,Striped Red Mullet,18.79,39.8,213.47 - 339.57,Year-round
+Kerala,Striped Red Mullet,14.53,12.72,209.79 - 265.56,Year-round
+Kerala,Striped Red Mullet,13.66,20.71,436.26 - 511.36,Seasonal
+Kerala,Striped Red Mullet,13.61,22.47,454.18 - 594.41,Seasonal
+Kerala,Striped Red Mullet,18.77,13.05,351.79 - 423.87,Year-round
+Kerala,Striped Red Mullet,8.43,38.69,244.45 - 362.41,Year-round
+Kerala,Trout,19.26,27.45,330.98 - 438.99,Year-round
+Kerala,Trout,9.9,35.19,243.14 - 336.15,Year-round
+Kerala,Trout,19.2,36.78,325.83 - 453.87,Seasonal
+Kerala,Trout,18.33,26.34,261.34 - 336.87,Seasonal
+Kerala,Trout,9.97,35.65,262.12 - 319.24,Seasonal
+Kerala,Trout,9.43,36.38,338.0 - 397.51,Year-round
+Kerala,Shrimp,17.54,19.97,408.09 - 535.2,Seasonal
+Kerala,Shrimp,17.37,25.47,338.99 - 393.53,Seasonal
+Kerala,Shrimp,11.38,11.13,238.36 - 364.91,Year-round
+Kerala,Shrimp,13.86,11.84,308.65 - 430.97,Seasonal
+Kerala,Shrimp,8.39,19.13,291.18 - 364.22,Year-round
+Kerala,Shrimp,5.78,15.73,293.03 - 416.2,Seasonal
+Madhya Pradesh,Gilt Head Bream,16.13,35.45,326.79 - 407.08,Seasonal
+Madhya Pradesh,Gilt Head Bream,17.27,17.58,281.43 - 343.97,Seasonal
+Madhya Pradesh,Gilt Head Bream,18.53,34.2,495.46 - 620.88,Year-round
+Madhya Pradesh,Gilt Head Bream,13.14,14.49,314.21 - 405.65,Seasonal
+Madhya Pradesh,Gilt Head Bream,15.64,15.02,434.19 - 542.57,Year-round
+Madhya Pradesh,Gilt Head Bream,14.43,24.46,308.51 - 453.43,Year-round
+Madhya Pradesh,Red Sea Bream,15.72,32.77,230.75 - 332.14,Year-round
+Madhya Pradesh,Red Sea Bream,7.58,39.17,334.64 - 400.55,Year-round
+Madhya Pradesh,Red Sea Bream,15.71,23.85,476.3 - 595.76,Year-round
+Madhya Pradesh,Red Sea Bream,17.76,20.34,209.26 - 264.45,Year-round
+Madhya Pradesh,Red Sea Bream,10.18,20.07,493.56 - 629.21,Year-round
+Madhya Pradesh,Red Sea Bream,16.47,30.13,330.6 - 435.53,Year-round
+Madhya Pradesh,Sea Bass,10.71,14.89,435.86 - 559.31,Seasonal
+Madhya Pradesh,Sea Bass,5.24,33.47,237.31 - 367.07,Year-round
+Madhya Pradesh,Sea Bass,19.55,23.13,270.49 - 390.98,Year-round
+Madhya Pradesh,Sea Bass,15.59,26.03,362.22 - 455.18,Year-round
+Madhya Pradesh,Sea Bass,15.78,35.88,253.78 - 383.78,Year-round
+Madhya Pradesh,Sea Bass,19.29,16.8,463.8 - 594.68,Year-round
+Madhya Pradesh,Red Mullet,9.65,18.7,461.42 - 578.69,Year-round
+Madhya Pradesh,Red Mullet,6.06,19.39,480.59 - 615.66,Year-round
+Madhya Pradesh,Red Mullet,18.59,10.36,402.21 - 457.39,Year-round
+Madhya Pradesh,Red Mullet,5.3,21.72,257.43 - 348.59,Seasonal
+Madhya Pradesh,Red Mullet,10.01,31.98,321.36 - 378.19,Year-round
+Madhya Pradesh,Red Mullet,10.34,12.52,300.04 - 417.79,Year-round
+Madhya Pradesh,Horse Mackerel,5.85,21.22,483.33 - 597.51,Seasonal
+Madhya Pradesh,Horse Mackerel,16.0,13.49,434.3 - 562.83,Year-round
+Madhya Pradesh,Horse Mackerel,6.52,18.34,282.9 - 376.1,Year-round
+Madhya Pradesh,Horse Mackerel,5.17,23.5,493.13 - 553.44,Seasonal
+Madhya Pradesh,Horse Mackerel,6.7,22.11,421.37 - 541.82,Year-round
+Madhya Pradesh,Horse Mackerel,8.07,25.59,222.21 - 332.76,Seasonal
+Madhya Pradesh,Black Sea Sprat,12.25,18.06,286.24 - 401.91,Seasonal
+Madhya Pradesh,Black Sea Sprat,7.16,27.86,251.63 - 394.19,Seasonal
+Madhya Pradesh,Black Sea Sprat,9.46,12.76,379.71 - 492.08,Year-round
+Madhya Pradesh,Black Sea Sprat,13.3,29.25,411.14 - 498.46,Year-round
+Madhya Pradesh,Black Sea Sprat,15.14,31.2,383.0 - 464.29,Seasonal
+Madhya Pradesh,Black Sea Sprat,8.74,10.06,252.22 - 313.93,Year-round
+Madhya Pradesh,Striped Red Mullet,7.32,38.34,420.96 - 559.26,Year-round
+Madhya Pradesh,Striped Red Mullet,16.58,28.76,312.07 - 367.12,Year-round
+Madhya Pradesh,Striped Red Mullet,5.23,27.49,275.93 - 370.96,Year-round
+Madhya Pradesh,Striped Red Mullet,8.31,31.77,385.17 - 509.12,Seasonal
+Madhya Pradesh,Striped Red Mullet,19.66,13.06,202.5 - 295.85,Year-round
+Madhya Pradesh,Striped Red Mullet,18.35,12.53,442.16 - 578.29,Seasonal
+Madhya Pradesh,Trout,11.52,31.7,202.72 - 311.66,Year-round
+Madhya Pradesh,Trout,13.2,30.12,410.26 - 480.66,Year-round
+Madhya Pradesh,Trout,7.99,36.32,421.62 - 472.99,Year-round
+Madhya Pradesh,Trout,10.34,10.47,223.14 - 364.26,Year-round
+Madhya Pradesh,Trout,11.88,31.98,382.02 - 499.31,Seasonal
+Madhya Pradesh,Trout,10.58,19.99,465.49 - 553.82,Seasonal
+Madhya Pradesh,Shrimp,18.99,26.33,260.08 - 371.76,Year-round
+Madhya Pradesh,Shrimp,8.8,39.63,287.45 - 414.52,Year-round
+Madhya Pradesh,Shrimp,18.81,27.53,361.5 - 438.38,Seasonal
+Madhya Pradesh,Shrimp,18.73,35.79,210.5 - 339.24,Seasonal
+Madhya Pradesh,Shrimp,14.45,17.45,411.64 - 504.4,Seasonal
+Madhya Pradesh,Shrimp,13.03,14.33,435.2 - 527.14,Year-round
+Maharashtra,Gilt Head Bream,9.39,23.32,206.57 - 286.68,Seasonal
+Maharashtra,Gilt Head Bream,11.11,24.09,208.49 - 279.5,Year-round
+Maharashtra,Gilt Head Bream,16.47,22.29,396.55 - 472.58,Seasonal
+Maharashtra,Gilt Head Bream,6.68,25.49,435.96 - 580.21,Seasonal
+Maharashtra,Gilt Head Bream,18.23,34.42,405.54 - 466.58,Year-round
+Maharashtra,Gilt Head Bream,5.12,37.74,332.99 - 438.33,Year-round
+Maharashtra,Red Sea Bream,10.35,20.61,448.57 - 577.5,Year-round
+Maharashtra,Red Sea Bream,8.24,34.28,435.91 - 549.13,Year-round
+Maharashtra,Red Sea Bream,12.58,38.23,462.9 - 523.15,Year-round
+Maharashtra,Red Sea Bream,6.16,34.87,304.67 - 406.83,Year-round
+Maharashtra,Red Sea Bream,15.15,35.14,457.63 - 582.46,Year-round
+Maharashtra,Red Sea Bream,5.2,18.88,337.76 - 428.87,Seasonal
+Maharashtra,Sea Bass,15.41,16.89,235.27 - 301.79,Seasonal
+Maharashtra,Sea Bass,17.94,25.96,436.83 - 516.51,Seasonal
+Maharashtra,Sea Bass,6.25,10.57,249.72 - 388.81,Seasonal
+Maharashtra,Sea Bass,6.82,29.04,374.64 - 436.48,Seasonal
+Maharashtra,Sea Bass,14.12,17.36,217.32 - 306.42,Year-round
+Maharashtra,Sea Bass,10.04,32.48,371.57 - 520.2,Year-round
+Maharashtra,Red Mullet,11.24,22.87,362.27 - 481.91,Year-round
+Maharashtra,Red Mullet,16.3,16.11,298.27 - 402.93,Year-round
+Maharashtra,Red Mullet,14.47,25.98,234.62 - 345.18,Seasonal
+Maharashtra,Red Mullet,19.0,23.17,494.13 - 595.36,Year-round
+Maharashtra,Red Mullet,10.88,36.87,261.29 - 362.08,Year-round
+Maharashtra,Red Mullet,16.65,28.34,457.19 - 574.52,Year-round
+Maharashtra,Horse Mackerel,13.41,28.85,406.59 - 481.92,Year-round
+Maharashtra,Horse Mackerel,15.97,30.92,425.79 - 522.3,Seasonal
+Maharashtra,Horse Mackerel,17.65,24.55,300.09 - 429.24,Seasonal
+Maharashtra,Horse Mackerel,12.66,34.62,321.37 - 419.81,Year-round
+Maharashtra,Horse Mackerel,6.14,21.63,441.06 - 581.24,Seasonal
+Maharashtra,Horse Mackerel,8.12,11.26,343.78 - 411.95,Seasonal
+Maharashtra,Black Sea Sprat,19.52,12.0,394.5 - 451.91,Seasonal
+Maharashtra,Black Sea Sprat,12.7,39.68,269.46 - 413.72,Seasonal
+Maharashtra,Black Sea Sprat,9.82,16.6,305.16 - 392.41,Year-round
+Maharashtra,Black Sea Sprat,15.6,21.23,310.84 - 365.38,Year-round
+Maharashtra,Black Sea Sprat,15.63,10.25,265.3 - 381.47,Year-round
+Maharashtra,Black Sea Sprat,10.6,28.96,228.61 - 288.98,Seasonal
+Maharashtra,Striped Red Mullet,6.0,33.0,375.11 - 503.31,Year-round
+Maharashtra,Striped Red Mullet,10.25,30.32,427.55 - 479.01,Year-round
+Maharashtra,Striped Red Mullet,14.31,32.27,250.96 - 320.46,Seasonal
+Maharashtra,Striped Red Mullet,10.86,14.76,277.47 - 388.01,Year-round
+Maharashtra,Striped Red Mullet,14.81,36.67,373.64 - 486.88,Seasonal
+Maharashtra,Striped Red Mullet,9.6,22.45,413.83 - 502.45,Seasonal
+Maharashtra,Trout,9.71,17.25,264.47 - 356.96,Seasonal
+Maharashtra,Trout,15.87,32.37,367.38 - 475.85,Seasonal
+Maharashtra,Trout,10.74,34.65,397.85 - 527.48,Seasonal
+Maharashtra,Trout,13.24,26.0,391.03 - 515.85,Year-round
+Maharashtra,Trout,9.87,18.09,257.28 - 376.74,Year-round
+Maharashtra,Trout,14.82,34.71,218.94 - 346.62,Year-round
+Maharashtra,Shrimp,16.67,32.83,256.32 - 315.16,Year-round
+Maharashtra,Shrimp,16.22,14.52,265.17 - 361.57,Seasonal
+Maharashtra,Shrimp,5.51,36.38,273.02 - 378.75,Seasonal
+Maharashtra,Shrimp,17.87,33.51,328.7 - 398.8,Seasonal
+Maharashtra,Shrimp,9.88,37.03,498.85 - 631.39,Seasonal
+Maharashtra,Shrimp,16.22,34.38,412.05 - 558.78,Year-round
+Manipur,Gilt Head Bream,19.98,19.8,424.46 - 555.12,Seasonal
+Manipur,Gilt Head Bream,5.09,23.97,371.35 - 451.75,Year-round
+Manipur,Gilt Head Bream,6.95,10.67,308.13 - 436.5,Year-round
+Manipur,Gilt Head Bream,5.21,12.41,293.66 - 345.23,Year-round
+Manipur,Gilt Head Bream,16.47,28.71,428.69 - 482.58,Year-round
+Manipur,Gilt Head Bream,12.67,10.16,481.52 - 573.01,Year-round
+Manipur,Red Sea Bream,13.8,27.43,497.2 - 622.88,Year-round
+Manipur,Red Sea Bream,15.14,14.15,373.65 - 480.6,Year-round
+Manipur,Red Sea Bream,18.92,37.87,302.57 - 405.34,Year-round
+Manipur,Red Sea Bream,12.04,23.29,348.24 - 484.35,Seasonal
+Manipur,Red Sea Bream,15.73,27.79,216.0 - 311.48,Seasonal
+Manipur,Red Sea Bream,10.44,35.91,233.02 - 375.52,Seasonal
+Manipur,Sea Bass,12.51,30.73,409.14 - 524.0,Seasonal
+Manipur,Sea Bass,13.32,32.43,443.08 - 534.46,Seasonal
+Manipur,Sea Bass,15.58,23.66,400.33 - 534.06,Seasonal
+Manipur,Sea Bass,5.91,30.56,207.49 - 274.63,Year-round
+Manipur,Sea Bass,17.57,34.08,488.28 - 591.87,Seasonal
+Manipur,Sea Bass,19.3,36.45,375.35 - 508.73,Seasonal
+Manipur,Red Mullet,18.82,27.5,377.85 - 463.34,Seasonal
+Manipur,Red Mullet,15.54,12.0,269.24 - 410.81,Seasonal
+Manipur,Red Mullet,18.21,36.49,397.71 - 468.84,Year-round
+Manipur,Red Mullet,19.64,30.5,312.63 - 442.64,Seasonal
+Manipur,Red Mullet,17.04,39.92,209.01 - 348.74,Year-round
+Manipur,Red Mullet,14.05,28.57,482.23 - 609.82,Seasonal
+Manipur,Horse Mackerel,10.03,12.01,492.6 - 624.3,Seasonal
+Manipur,Horse Mackerel,18.38,19.18,365.56 - 494.5,Year-round
+Manipur,Horse Mackerel,8.16,16.88,340.73 - 417.59,Seasonal
+Manipur,Horse Mackerel,6.12,23.15,358.96 - 507.49,Year-round
+Manipur,Horse Mackerel,19.52,23.19,283.51 - 413.34,Seasonal
+Manipur,Horse Mackerel,14.46,16.59,206.16 - 338.82,Seasonal
+Manipur,Black Sea Sprat,10.33,30.22,218.77 - 289.82,Seasonal
+Manipur,Black Sea Sprat,18.47,33.3,222.94 - 371.62,Seasonal
+Manipur,Black Sea Sprat,6.24,24.54,290.73 - 397.07,Seasonal
+Manipur,Black Sea Sprat,7.34,24.35,434.17 - 514.53,Seasonal
+Manipur,Black Sea Sprat,14.36,18.21,346.35 - 404.58,Year-round
+Manipur,Black Sea Sprat,19.76,21.87,414.56 - 492.75,Seasonal
+Manipur,Striped Red Mullet,11.88,31.75,372.29 - 489.01,Seasonal
+Manipur,Striped Red Mullet,14.96,15.98,213.49 - 276.12,Year-round
+Manipur,Striped Red Mullet,19.84,36.69,311.44 - 380.96,Seasonal
+Manipur,Striped Red Mullet,12.06,29.68,367.87 - 486.58,Seasonal
+Manipur,Striped Red Mullet,10.42,35.79,322.04 - 404.86,Seasonal
+Manipur,Striped Red Mullet,11.24,25.42,470.99 - 609.98,Year-round
+Manipur,Trout,7.63,27.03,373.79 - 472.76,Year-round
+Manipur,Trout,11.04,39.11,479.7 - 603.86,Year-round
+Manipur,Trout,7.12,27.13,255.58 - 333.45,Seasonal
+Manipur,Trout,12.36,22.2,470.96 - 581.34,Seasonal
+Manipur,Trout,19.55,27.14,242.9 - 330.36,Year-round
+Manipur,Trout,19.08,36.82,301.24 - 424.19,Year-round
+Manipur,Shrimp,16.94,15.25,401.83 - 473.88,Seasonal
+Manipur,Shrimp,12.8,25.66,376.68 - 501.85,Year-round
+Manipur,Shrimp,18.06,33.78,388.2 - 513.23,Seasonal
+Manipur,Shrimp,8.98,26.63,259.85 - 339.25,Seasonal
+Manipur,Shrimp,18.81,11.2,287.44 - 358.19,Seasonal
+Manipur,Shrimp,16.79,27.7,201.93 - 329.18,Year-round
+Meghalaya,Gilt Head Bream,7.32,24.62,329.0 - 438.69,Year-round
+Meghalaya,Gilt Head Bream,19.03,21.27,412.44 - 510.01,Year-round
+Meghalaya,Gilt Head Bream,5.46,16.13,302.12 - 403.18,Seasonal
+Meghalaya,Gilt Head Bream,15.05,24.05,432.07 - 494.41,Seasonal
+Meghalaya,Gilt Head Bream,5.52,26.53,331.45 - 465.37,Year-round
+Meghalaya,Gilt Head Bream,16.94,32.61,264.65 - 348.25,Seasonal
+Meghalaya,Red Sea Bream,15.87,13.35,382.5 - 460.6,Seasonal
+Meghalaya,Red Sea Bream,15.43,28.32,259.95 - 315.5,Year-round
+Meghalaya,Red Sea Bream,6.88,33.18,271.08 - 388.82,Year-round
+Meghalaya,Red Sea Bream,17.53,37.82,309.77 - 391.57,Year-round
+Meghalaya,Red Sea Bream,17.4,25.74,432.57 - 506.02,Year-round
+Meghalaya,Red Sea Bream,9.39,19.97,288.13 - 342.28,Year-round
+Meghalaya,Sea Bass,8.98,28.34,403.55 - 485.3,Seasonal
+Meghalaya,Sea Bass,14.29,27.99,351.9 - 436.94,Year-round
+Meghalaya,Sea Bass,9.22,38.9,203.09 - 324.69,Year-round
+Meghalaya,Sea Bass,10.2,23.07,438.34 - 516.16,Seasonal
+Meghalaya,Sea Bass,6.18,23.28,278.31 - 362.65,Seasonal
+Meghalaya,Sea Bass,13.12,39.55,481.7 - 576.98,Seasonal
+Meghalaya,Red Mullet,5.93,12.77,248.84 - 358.36,Seasonal
+Meghalaya,Red Mullet,10.12,23.46,473.97 - 542.91,Seasonal
+Meghalaya,Red Mullet,12.06,29.86,425.35 - 550.74,Seasonal
+Meghalaya,Red Mullet,7.66,18.83,234.44 - 378.59,Year-round
+Meghalaya,Red Mullet,5.1,16.37,399.06 - 490.18,Seasonal
+Meghalaya,Red Mullet,17.84,20.7,427.24 - 506.75,Seasonal
+Meghalaya,Horse Mackerel,15.37,18.15,257.18 - 325.65,Seasonal
+Meghalaya,Horse Mackerel,14.06,35.89,446.75 - 514.08,Year-round
+Meghalaya,Horse Mackerel,12.97,18.64,347.85 - 427.84,Seasonal
+Meghalaya,Horse Mackerel,16.01,28.97,375.08 - 464.09,Seasonal
+Meghalaya,Horse Mackerel,18.54,20.32,419.9 - 535.77,Seasonal
+Meghalaya,Horse Mackerel,6.59,36.19,356.94 - 476.91,Seasonal
+Meghalaya,Black Sea Sprat,10.99,19.8,203.24 - 335.9,Year-round
+Meghalaya,Black Sea Sprat,16.7,12.96,222.7 - 308.85,Year-round
+Meghalaya,Black Sea Sprat,19.71,16.44,220.17 - 329.65,Year-round
+Meghalaya,Black Sea Sprat,15.5,28.51,459.04 - 531.35,Year-round
+Meghalaya,Black Sea Sprat,7.59,27.04,288.91 - 432.74,Seasonal
+Meghalaya,Black Sea Sprat,11.35,33.81,209.53 - 337.74,Seasonal
+Meghalaya,Striped Red Mullet,10.21,11.51,215.83 - 335.03,Year-round
+Meghalaya,Striped Red Mullet,8.27,39.68,372.33 - 436.12,Seasonal
+Meghalaya,Striped Red Mullet,10.39,34.71,446.21 - 543.94,Year-round
+Meghalaya,Striped Red Mullet,16.91,14.75,215.54 - 321.27,Year-round
+Meghalaya,Striped Red Mullet,6.27,24.0,344.64 - 478.73,Seasonal
+Meghalaya,Striped Red Mullet,7.74,14.19,372.94 - 499.13,Year-round
+Meghalaya,Trout,11.89,19.1,479.77 - 541.63,Seasonal
+Meghalaya,Trout,6.15,22.62,380.5 - 524.22,Seasonal
+Meghalaya,Trout,11.12,14.84,396.92 - 544.04,Year-round
+Meghalaya,Trout,18.92,35.35,267.19 - 341.11,Year-round
+Meghalaya,Trout,14.19,38.15,398.53 - 456.21,Year-round
+Meghalaya,Trout,8.47,30.44,482.05 - 536.73,Seasonal
+Meghalaya,Shrimp,14.18,21.2,276.6 - 337.19,Seasonal
+Meghalaya,Shrimp,16.25,25.95,361.33 - 439.14,Year-round
+Meghalaya,Shrimp,10.93,15.45,247.04 - 379.77,Seasonal
+Meghalaya,Shrimp,7.34,16.6,355.48 - 476.49,Year-round
+Meghalaya,Shrimp,8.47,25.07,419.45 - 565.26,Year-round
+Meghalaya,Shrimp,17.55,11.51,339.38 - 427.35,Year-round
+Mizoram,Gilt Head Bream,14.45,22.1,425.72 - 528.85,Year-round
+Mizoram,Gilt Head Bream,16.71,21.95,333.17 - 472.53,Year-round
+Mizoram,Gilt Head Bream,17.49,26.21,453.4 - 546.53,Seasonal
+Mizoram,Gilt Head Bream,16.52,25.01,330.13 - 405.08,Seasonal
+Mizoram,Gilt Head Bream,12.71,19.25,371.91 - 454.43,Year-round
+Mizoram,Gilt Head Bream,13.39,34.85,413.85 - 533.52,Year-round
+Mizoram,Red Sea Bream,10.93,31.85,303.74 - 420.85,Seasonal
+Mizoram,Red Sea Bream,11.61,13.97,314.68 - 426.61,Year-round
+Mizoram,Red Sea Bream,19.85,10.77,381.06 - 497.01,Year-round
+Mizoram,Red Sea Bream,11.46,19.13,259.43 - 316.0,Year-round
+Mizoram,Red Sea Bream,8.34,19.22,363.94 - 455.66,Seasonal
+Mizoram,Red Sea Bream,6.96,26.96,332.68 - 462.4,Seasonal
+Mizoram,Sea Bass,6.26,21.79,230.07 - 281.73,Seasonal
+Mizoram,Sea Bass,7.39,20.07,223.04 - 296.54,Year-round
+Mizoram,Sea Bass,17.52,39.24,240.64 - 313.79,Seasonal
+Mizoram,Sea Bass,9.17,11.08,478.07 - 549.44,Seasonal
+Mizoram,Sea Bass,13.61,21.79,208.6 - 316.92,Seasonal
+Mizoram,Sea Bass,16.72,19.41,274.36 - 394.13,Seasonal
+Mizoram,Red Mullet,10.97,39.21,363.26 - 440.78,Year-round
+Mizoram,Red Mullet,13.49,32.54,239.59 - 340.91,Year-round
+Mizoram,Red Mullet,5.76,22.78,449.71 - 580.27,Year-round
+Mizoram,Red Mullet,9.76,17.78,226.28 - 285.27,Seasonal
+Mizoram,Red Mullet,11.75,20.12,461.21 - 519.56,Seasonal
+Mizoram,Red Mullet,9.98,29.88,461.19 - 587.1,Year-round
+Mizoram,Horse Mackerel,10.02,21.84,358.98 - 425.12,Seasonal
+Mizoram,Horse Mackerel,8.13,18.89,473.24 - 577.98,Year-round
+Mizoram,Horse Mackerel,9.02,20.83,322.54 - 440.51,Year-round
+Mizoram,Horse Mackerel,17.41,27.55,301.26 - 431.54,Year-round
+Mizoram,Horse Mackerel,14.62,17.79,465.83 - 605.39,Seasonal
+Mizoram,Horse Mackerel,6.83,13.33,394.43 - 531.94,Year-round
+Mizoram,Black Sea Sprat,17.39,30.19,447.31 - 537.0,Seasonal
+Mizoram,Black Sea Sprat,14.85,26.05,224.61 - 278.1,Seasonal
+Mizoram,Black Sea Sprat,6.22,39.78,246.86 - 395.7,Year-round
+Mizoram,Black Sea Sprat,7.54,20.55,428.5 - 529.21,Year-round
+Mizoram,Black Sea Sprat,9.34,24.03,385.82 - 476.94,Seasonal
+Mizoram,Black Sea Sprat,14.28,29.96,350.21 - 464.7,Year-round
+Mizoram,Striped Red Mullet,19.02,30.67,446.98 - 552.6,Seasonal
+Mizoram,Striped Red Mullet,14.05,25.71,276.08 - 373.17,Year-round
+Mizoram,Striped Red Mullet,19.88,18.82,263.1 - 389.63,Seasonal
+Mizoram,Striped Red Mullet,14.04,25.35,218.3 - 297.09,Seasonal
+Mizoram,Striped Red Mullet,15.11,35.41,297.3 - 414.95,Year-round
+Mizoram,Striped Red Mullet,19.16,32.97,201.62 - 251.76,Seasonal
+Mizoram,Trout,9.14,33.06,267.88 - 387.12,Seasonal
+Mizoram,Trout,9.86,29.83,395.67 - 470.78,Seasonal
+Mizoram,Trout,6.96,28.18,454.83 - 509.33,Year-round
+Mizoram,Trout,19.95,15.5,378.24 - 469.38,Year-round
+Mizoram,Trout,11.98,10.41,224.48 - 300.34,Seasonal
+Mizoram,Trout,12.24,33.32,401.85 - 524.28,Seasonal
+Mizoram,Shrimp,9.44,29.91,489.59 - 544.63,Seasonal
+Mizoram,Shrimp,13.88,14.98,207.41 - 293.68,Seasonal
+Mizoram,Shrimp,6.35,28.03,302.29 - 444.01,Seasonal
+Mizoram,Shrimp,7.26,35.55,497.44 - 620.12,Year-round
+Mizoram,Shrimp,15.47,37.01,437.66 - 555.29,Seasonal
+Mizoram,Shrimp,14.22,27.44,276.09 - 401.72,Seasonal
+Nagaland,Gilt Head Bream,8.27,29.86,390.11 - 499.46,Year-round
+Nagaland,Gilt Head Bream,5.64,30.54,470.81 - 604.54,Year-round
+Nagaland,Gilt Head Bream,10.14,14.04,228.33 - 361.48,Year-round
+Nagaland,Gilt Head Bream,12.48,19.55,468.28 - 582.77,Seasonal
+Nagaland,Gilt Head Bream,16.7,13.55,200.01 - 321.22,Year-round
+Nagaland,Gilt Head Bream,13.32,14.45,227.63 - 359.16,Year-round
+Nagaland,Red Sea Bream,19.36,26.97,354.34 - 412.84,Year-round
+Nagaland,Red Sea Bream,10.76,29.99,496.65 - 569.22,Seasonal
+Nagaland,Red Sea Bream,6.42,19.45,228.99 - 296.68,Year-round
+Nagaland,Red Sea Bream,19.65,22.14,226.29 - 282.88,Seasonal
+Nagaland,Red Sea Bream,13.74,34.37,298.08 - 378.66,Year-round
+Nagaland,Red Sea Bream,12.34,35.79,377.69 - 497.16,Year-round
+Nagaland,Sea Bass,14.49,13.85,373.55 - 492.89,Year-round
+Nagaland,Sea Bass,8.85,34.12,327.78 - 477.25,Year-round
+Nagaland,Sea Bass,14.29,15.6,207.71 - 286.16,Seasonal
+Nagaland,Sea Bass,12.38,33.9,269.76 - 342.37,Seasonal
+Nagaland,Sea Bass,19.45,13.24,343.55 - 452.1,Seasonal
+Nagaland,Sea Bass,16.57,29.56,449.73 - 597.27,Year-round
+Nagaland,Red Mullet,13.17,17.01,391.33 - 523.34,Seasonal
+Nagaland,Red Mullet,12.85,18.15,319.75 - 429.61,Year-round
+Nagaland,Red Mullet,14.2,36.94,442.98 - 551.29,Seasonal
+Nagaland,Red Mullet,18.4,12.24,472.32 - 621.98,Seasonal
+Nagaland,Red Mullet,15.53,26.69,307.59 - 448.72,Seasonal
+Nagaland,Red Mullet,15.99,37.72,492.55 - 625.87,Seasonal
+Nagaland,Horse Mackerel,9.97,30.27,318.78 - 444.41,Seasonal
+Nagaland,Horse Mackerel,9.61,21.1,365.14 - 494.14,Seasonal
+Nagaland,Horse Mackerel,13.77,39.08,313.35 - 369.56,Year-round
+Nagaland,Horse Mackerel,6.15,14.98,218.33 - 318.26,Year-round
+Nagaland,Horse Mackerel,11.78,20.64,320.21 - 381.73,Seasonal
+Nagaland,Horse Mackerel,19.79,10.01,384.19 - 495.84,Seasonal
+Nagaland,Black Sea Sprat,14.72,11.84,444.12 - 588.17,Seasonal
+Nagaland,Black Sea Sprat,7.03,15.93,254.16 - 330.4,Seasonal
+Nagaland,Black Sea Sprat,13.73,22.04,301.43 - 364.11,Year-round
+Nagaland,Black Sea Sprat,15.13,11.14,385.99 - 505.81,Seasonal
+Nagaland,Black Sea Sprat,13.29,27.86,461.57 - 569.27,Year-round
+Nagaland,Black Sea Sprat,8.81,18.86,358.99 - 476.83,Seasonal
+Nagaland,Striped Red Mullet,18.62,21.89,288.9 - 353.24,Year-round
+Nagaland,Striped Red Mullet,18.05,21.15,384.32 - 486.69,Seasonal
+Nagaland,Striped Red Mullet,16.33,27.6,448.53 - 506.55,Year-round
+Nagaland,Striped Red Mullet,16.87,37.47,307.94 - 388.64,Year-round
+Nagaland,Striped Red Mullet,19.11,13.73,462.54 - 609.63,Year-round
+Nagaland,Striped Red Mullet,10.91,28.1,440.51 - 537.46,Seasonal
+Nagaland,Trout,13.71,38.08,401.68 - 499.8,Year-round
+Nagaland,Trout,16.79,28.54,302.55 - 439.94,Seasonal
+Nagaland,Trout,17.22,18.41,239.65 - 333.64,Seasonal
+Nagaland,Trout,5.36,13.49,238.13 - 307.06,Seasonal
+Nagaland,Trout,10.75,16.49,332.77 - 387.61,Seasonal
+Nagaland,Trout,11.62,15.98,279.34 - 379.7,Seasonal
+Nagaland,Shrimp,13.32,34.78,389.44 - 517.88,Year-round
+Nagaland,Shrimp,5.22,17.42,459.89 - 526.35,Seasonal
+Nagaland,Shrimp,8.31,28.77,371.48 - 439.97,Seasonal
+Nagaland,Shrimp,17.37,33.63,285.01 - 418.73,Year-round
+Nagaland,Shrimp,15.0,12.4,332.55 - 398.89,Year-round
+Nagaland,Shrimp,16.13,17.32,379.4 - 467.91,Seasonal
+Odisha,Gilt Head Bream,12.68,24.5,314.84 - 448.75,Seasonal
+Odisha,Gilt Head Bream,12.12,10.22,207.74 - 313.07,Seasonal
+Odisha,Gilt Head Bream,13.49,36.34,367.36 - 513.34,Year-round
+Odisha,Gilt Head Bream,18.76,33.33,446.7 - 586.98,Year-round
+Odisha,Gilt Head Bream,14.68,11.37,483.79 - 618.01,Seasonal
+Odisha,Gilt Head Bream,11.77,38.11,495.21 - 624.86,Seasonal
+Odisha,Red Sea Bream,12.78,17.38,307.44 - 456.39,Year-round
+Odisha,Red Sea Bream,15.93,11.41,478.42 - 537.53,Seasonal
+Odisha,Red Sea Bream,6.15,10.13,401.13 - 515.31,Year-round
+Odisha,Red Sea Bream,16.49,22.41,395.89 - 503.85,Seasonal
+Odisha,Red Sea Bream,7.66,12.95,487.02 - 596.95,Seasonal
+Odisha,Red Sea Bream,19.45,13.44,347.12 - 414.07,Seasonal
+Odisha,Sea Bass,7.69,33.93,403.26 - 507.96,Seasonal
+Odisha,Sea Bass,9.98,33.45,331.12 - 443.89,Year-round
+Odisha,Sea Bass,16.74,39.78,272.2 - 409.63,Seasonal
+Odisha,Sea Bass,15.95,24.7,389.22 - 513.18,Seasonal
+Odisha,Sea Bass,7.71,33.97,300.26 - 423.34,Seasonal
+Odisha,Sea Bass,15.97,21.16,356.57 - 413.36,Seasonal
+Odisha,Red Mullet,5.89,30.76,242.0 - 333.58,Seasonal
+Odisha,Red Mullet,15.14,28.56,370.57 - 426.48,Seasonal
+Odisha,Red Mullet,15.13,21.88,239.9 - 305.78,Year-round
+Odisha,Red Mullet,13.58,23.02,238.27 - 329.18,Seasonal
+Odisha,Red Mullet,10.33,30.08,345.14 - 436.98,Seasonal
+Odisha,Red Mullet,19.08,20.5,273.14 - 388.73,Year-round
+Odisha,Horse Mackerel,13.3,27.11,263.03 - 387.26,Seasonal
+Odisha,Horse Mackerel,8.82,24.19,212.99 - 332.93,Year-round
+Odisha,Horse Mackerel,15.42,27.02,438.87 - 562.38,Seasonal
+Odisha,Horse Mackerel,6.96,23.22,295.19 - 436.39,Seasonal
+Odisha,Horse Mackerel,13.99,25.41,286.46 - 337.1,Seasonal
+Odisha,Horse Mackerel,18.62,17.28,227.39 - 309.26,Seasonal
+Odisha,Black Sea Sprat,19.12,15.23,341.49 - 400.64,Seasonal
+Odisha,Black Sea Sprat,15.72,20.85,237.61 - 312.97,Year-round
+Odisha,Black Sea Sprat,7.94,10.68,458.5 - 566.21,Year-round
+Odisha,Black Sea Sprat,9.74,28.81,442.52 - 553.68,Seasonal
+Odisha,Black Sea Sprat,18.7,27.16,254.24 - 331.12,Seasonal
+Odisha,Black Sea Sprat,16.86,21.54,330.8 - 440.2,Year-round
+Odisha,Striped Red Mullet,11.4,28.46,224.47 - 283.25,Seasonal
+Odisha,Striped Red Mullet,16.59,31.45,373.69 - 425.15,Year-round
+Odisha,Striped Red Mullet,17.18,10.42,394.81 - 511.7,Year-round
+Odisha,Striped Red Mullet,9.4,17.98,299.83 - 405.57,Year-round
+Odisha,Striped Red Mullet,11.88,26.94,398.91 - 516.81,Year-round
+Odisha,Striped Red Mullet,5.28,32.08,262.52 - 325.81,Year-round
+Odisha,Trout,5.74,16.93,469.22 - 544.83,Year-round
+Odisha,Trout,18.55,10.74,262.84 - 354.46,Year-round
+Odisha,Trout,8.59,32.74,428.0 - 509.26,Seasonal
+Odisha,Trout,18.98,28.61,441.13 - 499.5,Year-round
+Odisha,Trout,9.55,33.46,429.76 - 548.92,Seasonal
+Odisha,Trout,9.93,11.63,254.74 - 401.26,Seasonal
+Odisha,Shrimp,13.63,16.2,351.34 - 432.56,Seasonal
+Odisha,Shrimp,8.1,19.4,390.82 - 480.65,Seasonal
+Odisha,Shrimp,9.04,15.96,435.02 - 575.94,Seasonal
+Odisha,Shrimp,16.93,19.71,429.56 - 493.87,Year-round
+Odisha,Shrimp,19.34,21.3,301.77 - 358.02,Year-round
+Odisha,Shrimp,9.01,34.37,224.72 - 334.72,Year-round
+Punjab,Gilt Head Bream,18.13,19.07,457.61 - 593.33,Seasonal
+Punjab,Gilt Head Bream,9.11,37.35,229.25 - 364.59,Seasonal
+Punjab,Gilt Head Bream,9.97,25.02,393.72 - 494.77,Year-round
+Punjab,Gilt Head Bream,9.59,11.91,253.14 - 303.65,Year-round
+Punjab,Gilt Head Bream,19.29,19.86,398.69 - 523.88,Seasonal
+Punjab,Gilt Head Bream,18.07,18.68,434.96 - 565.29,Year-round
+Punjab,Red Sea Bream,15.58,32.26,403.32 - 478.55,Year-round
+Punjab,Red Sea Bream,14.58,19.21,457.9 - 603.85,Seasonal
+Punjab,Red Sea Bream,17.74,21.5,250.48 - 384.13,Year-round
+Punjab,Red Sea Bream,14.54,22.05,373.35 - 454.14,Year-round
+Punjab,Red Sea Bream,11.91,34.86,448.87 - 569.81,Seasonal
+Punjab,Red Sea Bream,11.03,24.06,411.69 - 553.91,Year-round
+Punjab,Sea Bass,18.19,31.76,233.78 - 324.55,Seasonal
+Punjab,Sea Bass,9.89,12.13,304.94 - 441.19,Year-round
+Punjab,Sea Bass,9.06,17.46,482.62 - 562.44,Seasonal
+Punjab,Sea Bass,19.66,27.48,498.64 - 639.79,Year-round
+Punjab,Sea Bass,19.64,21.07,307.16 - 391.57,Seasonal
+Punjab,Sea Bass,7.51,23.88,209.98 - 272.17,Year-round
+Punjab,Red Mullet,7.08,39.48,274.99 - 332.33,Seasonal
+Punjab,Red Mullet,18.04,25.9,340.39 - 431.47,Seasonal
+Punjab,Red Mullet,7.94,34.61,394.62 - 486.52,Year-round
+Punjab,Red Mullet,9.15,11.38,479.25 - 595.33,Seasonal
+Punjab,Red Mullet,13.94,39.87,330.58 - 472.65,Seasonal
+Punjab,Red Mullet,10.65,27.12,343.61 - 479.82,Seasonal
+Punjab,Horse Mackerel,5.0,37.45,453.16 - 577.39,Year-round
+Punjab,Horse Mackerel,16.29,31.99,462.86 - 585.14,Year-round
+Punjab,Horse Mackerel,11.46,13.57,353.72 - 438.6,Year-round
+Punjab,Horse Mackerel,16.16,31.33,270.35 - 395.29,Seasonal
+Punjab,Horse Mackerel,19.91,16.98,216.15 - 285.14,Seasonal
+Punjab,Horse Mackerel,14.37,12.43,335.66 - 459.57,Year-round
+Punjab,Black Sea Sprat,15.13,25.27,458.43 - 595.04,Year-round
+Punjab,Black Sea Sprat,5.48,26.05,211.31 - 342.12,Seasonal
+Punjab,Black Sea Sprat,19.8,32.64,274.58 - 378.42,Seasonal
+Punjab,Black Sea Sprat,10.98,35.89,280.12 - 383.59,Year-round
+Punjab,Black Sea Sprat,5.1,22.1,270.43 - 402.31,Seasonal
+Punjab,Black Sea Sprat,18.56,12.06,497.57 - 642.71,Year-round
+Punjab,Striped Red Mullet,8.5,12.05,256.14 - 361.69,Year-round
+Punjab,Striped Red Mullet,8.36,20.9,331.59 - 479.34,Seasonal
+Punjab,Striped Red Mullet,12.39,19.9,232.04 - 377.38,Seasonal
+Punjab,Striped Red Mullet,15.63,39.81,294.39 - 411.79,Year-round
+Punjab,Striped Red Mullet,16.75,13.67,390.47 - 452.86,Seasonal
+Punjab,Striped Red Mullet,5.31,32.83,212.82 - 349.29,Seasonal
+Punjab,Trout,6.17,38.66,274.09 - 410.05,Seasonal
+Punjab,Trout,11.6,24.49,263.69 - 325.24,Seasonal
+Punjab,Trout,19.02,37.28,445.89 - 584.71,Seasonal
+Punjab,Trout,14.09,25.11,463.52 - 608.78,Seasonal
+Punjab,Trout,13.17,14.8,407.37 - 474.13,Year-round
+Punjab,Trout,11.71,34.89,396.42 - 487.54,Year-round
+Punjab,Shrimp,7.34,26.41,226.23 - 313.97,Year-round
+Punjab,Shrimp,7.79,38.52,262.97 - 339.06,Year-round
+Punjab,Shrimp,10.28,11.29,253.73 - 342.95,Year-round
+Punjab,Shrimp,15.59,25.11,448.75 - 549.56,Seasonal
+Punjab,Shrimp,10.72,33.26,302.78 - 415.54,Year-round
+Punjab,Shrimp,14.5,23.51,359.33 - 483.9,Seasonal
+Rajasthan,Gilt Head Bream,14.38,34.25,220.71 - 304.19,Seasonal
+Rajasthan,Gilt Head Bream,15.07,37.79,385.75 - 518.23,Seasonal
+Rajasthan,Gilt Head Bream,17.22,21.46,239.68 - 309.35,Year-round
+Rajasthan,Gilt Head Bream,14.87,26.93,479.89 - 588.54,Seasonal
+Rajasthan,Gilt Head Bream,10.44,34.72,261.23 - 358.13,Seasonal
+Rajasthan,Gilt Head Bream,12.09,21.35,355.19 - 446.5,Year-round
+Rajasthan,Red Sea Bream,15.26,10.76,407.01 - 488.62,Seasonal
+Rajasthan,Red Sea Bream,15.88,20.81,226.12 - 296.34,Seasonal
+Rajasthan,Red Sea Bream,7.21,18.94,226.93 - 368.01,Seasonal
+Rajasthan,Red Sea Bream,10.96,17.37,443.7 - 527.98,Year-round
+Rajasthan,Red Sea Bream,7.43,38.97,261.74 - 385.89,Year-round
+Rajasthan,Red Sea Bream,11.66,18.47,224.29 - 361.95,Seasonal
+Rajasthan,Sea Bass,7.49,37.49,298.35 - 385.56,Year-round
+Rajasthan,Sea Bass,6.72,10.12,350.6 - 458.92,Year-round
+Rajasthan,Sea Bass,18.21,11.49,277.12 - 373.62,Year-round
+Rajasthan,Sea Bass,18.09,12.61,346.22 - 465.36,Seasonal
+Rajasthan,Sea Bass,19.42,23.35,346.71 - 431.88,Seasonal
+Rajasthan,Sea Bass,13.3,18.98,329.26 - 410.48,Year-round
+Rajasthan,Red Mullet,11.51,35.45,308.98 - 438.37,Year-round
+Rajasthan,Red Mullet,14.02,20.18,363.38 - 417.49,Seasonal
+Rajasthan,Red Mullet,10.93,11.54,320.56 - 437.94,Seasonal
+Rajasthan,Red Mullet,13.75,23.93,385.76 - 483.79,Year-round
+Rajasthan,Red Mullet,16.24,26.37,261.22 - 340.41,Seasonal
+Rajasthan,Red Mullet,5.4,21.41,231.84 - 334.97,Seasonal
+Rajasthan,Horse Mackerel,19.36,22.81,342.53 - 482.33,Seasonal
+Rajasthan,Horse Mackerel,13.03,28.55,404.2 - 520.87,Year-round
+Rajasthan,Horse Mackerel,8.09,10.03,211.78 - 359.51,Year-round
+Rajasthan,Horse Mackerel,10.0,21.63,241.51 - 365.33,Seasonal
+Rajasthan,Horse Mackerel,15.92,28.01,419.38 - 546.35,Seasonal
+Rajasthan,Horse Mackerel,11.27,19.28,481.02 - 582.59,Year-round
+Rajasthan,Black Sea Sprat,18.46,13.58,298.35 - 429.93,Seasonal
+Rajasthan,Black Sea Sprat,9.89,15.75,366.65 - 475.04,Seasonal
+Rajasthan,Black Sea Sprat,18.04,12.64,433.04 - 567.79,Year-round
+Rajasthan,Black Sea Sprat,9.11,34.83,421.96 - 550.86,Year-round
+Rajasthan,Black Sea Sprat,14.53,15.89,263.52 - 317.67,Year-round
+Rajasthan,Black Sea Sprat,17.55,31.13,478.58 - 602.45,Year-round
+Rajasthan,Striped Red Mullet,19.3,31.58,479.05 - 581.81,Seasonal
+Rajasthan,Striped Red Mullet,12.98,34.65,230.41 - 359.6,Year-round
+Rajasthan,Striped Red Mullet,12.99,26.93,380.17 - 446.8,Seasonal
+Rajasthan,Striped Red Mullet,15.68,36.95,374.81 - 437.22,Seasonal
+Rajasthan,Striped Red Mullet,16.43,27.75,257.61 - 374.28,Year-round
+Rajasthan,Striped Red Mullet,5.37,17.46,322.37 - 400.33,Seasonal
+Rajasthan,Trout,12.79,15.93,441.55 - 510.13,Year-round
+Rajasthan,Trout,10.78,25.2,456.8 - 581.8,Seasonal
+Rajasthan,Trout,13.37,20.41,479.86 - 622.12,Year-round
+Rajasthan,Trout,9.32,31.74,450.92 - 587.17,Seasonal
+Rajasthan,Trout,10.04,37.62,203.6 - 308.88,Seasonal
+Rajasthan,Trout,5.95,19.74,401.83 - 485.55,Seasonal
+Rajasthan,Shrimp,14.21,17.1,345.05 - 437.96,Seasonal
+Rajasthan,Shrimp,16.25,23.7,453.7 - 515.12,Seasonal
+Rajasthan,Shrimp,12.57,33.06,218.58 - 326.26,Year-round
+Rajasthan,Shrimp,16.88,22.07,327.49 - 415.77,Year-round
+Rajasthan,Shrimp,5.68,23.14,453.2 - 529.44,Year-round
+Rajasthan,Shrimp,10.9,28.5,458.24 - 542.86,Seasonal
+Sikkim,Gilt Head Bream,9.99,19.47,231.99 - 318.67,Seasonal
+Sikkim,Gilt Head Bream,11.06,39.8,460.57 - 567.03,Year-round
+Sikkim,Gilt Head Bream,14.01,31.03,285.56 - 398.64,Year-round
+Sikkim,Gilt Head Bream,9.35,16.04,279.56 - 346.54,Seasonal
+Sikkim,Gilt Head Bream,18.87,11.69,345.69 - 486.97,Year-round
+Sikkim,Gilt Head Bream,7.47,11.92,295.22 - 367.25,Seasonal
+Sikkim,Red Sea Bream,13.39,25.44,229.87 - 281.48,Seasonal
+Sikkim,Red Sea Bream,12.99,35.82,408.48 - 459.53,Year-round
+Sikkim,Red Sea Bream,18.99,27.27,237.83 - 346.01,Seasonal
+Sikkim,Red Sea Bream,17.03,14.82,361.2 - 430.4,Seasonal
+Sikkim,Red Sea Bream,14.35,13.94,292.91 - 363.09,Year-round
+Sikkim,Red Sea Bream,15.05,22.07,289.4 - 401.95,Seasonal
+Sikkim,Sea Bass,16.35,24.22,267.74 - 379.4,Year-round
+Sikkim,Sea Bass,19.93,23.51,275.76 - 370.04,Year-round
+Sikkim,Sea Bass,8.14,13.91,261.06 - 387.97,Seasonal
+Sikkim,Sea Bass,17.58,34.26,295.37 - 346.25,Seasonal
+Sikkim,Sea Bass,17.25,36.56,226.01 - 329.85,Seasonal
+Sikkim,Sea Bass,14.52,28.64,236.22 - 383.92,Seasonal
+Sikkim,Red Mullet,16.27,38.24,402.99 - 489.33,Seasonal
+Sikkim,Red Mullet,11.43,28.86,264.55 - 377.29,Year-round
+Sikkim,Red Mullet,18.94,16.14,439.4 - 563.25,Year-round
+Sikkim,Red Mullet,10.99,17.27,261.05 - 406.5,Year-round
+Sikkim,Red Mullet,14.64,31.53,492.99 - 580.71,Seasonal
+Sikkim,Red Mullet,14.43,29.21,455.15 - 579.24,Seasonal
+Sikkim,Horse Mackerel,8.28,19.79,426.86 - 516.23,Year-round
+Sikkim,Horse Mackerel,7.0,17.28,287.51 - 429.94,Seasonal
+Sikkim,Horse Mackerel,9.5,24.23,250.41 - 335.89,Seasonal
+Sikkim,Horse Mackerel,19.31,35.97,373.16 - 490.57,Seasonal
+Sikkim,Horse Mackerel,13.97,29.94,325.8 - 445.91,Year-round
+Sikkim,Horse Mackerel,13.78,17.69,480.19 - 543.3,Seasonal
+Sikkim,Black Sea Sprat,5.58,21.05,493.71 - 585.78,Seasonal
+Sikkim,Black Sea Sprat,17.85,24.01,307.92 - 411.53,Year-round
+Sikkim,Black Sea Sprat,17.97,23.71,342.53 - 431.14,Seasonal
+Sikkim,Black Sea Sprat,16.35,30.67,459.09 - 608.77,Seasonal
+Sikkim,Black Sea Sprat,6.03,26.49,325.15 - 462.92,Year-round
+Sikkim,Black Sea Sprat,8.31,14.75,218.66 - 350.93,Seasonal
+Sikkim,Striped Red Mullet,12.69,18.73,340.82 - 476.61,Seasonal
+Sikkim,Striped Red Mullet,14.23,15.27,353.96 - 475.5,Year-round
+Sikkim,Striped Red Mullet,12.07,16.82,249.86 - 333.13,Seasonal
+Sikkim,Striped Red Mullet,17.31,10.21,337.02 - 419.94,Year-round
+Sikkim,Striped Red Mullet,18.37,23.81,412.9 - 561.27,Year-round
+Sikkim,Striped Red Mullet,12.82,13.74,488.42 - 602.02,Seasonal
+Sikkim,Trout,5.59,10.66,432.35 - 495.79,Year-round
+Sikkim,Trout,11.22,38.07,337.12 - 416.14,Seasonal
+Sikkim,Trout,5.16,32.86,467.99 - 561.28,Year-round
+Sikkim,Trout,19.8,17.53,352.9 - 493.78,Year-round
+Sikkim,Trout,10.04,28.45,478.07 - 624.28,Year-round
+Sikkim,Trout,5.76,26.42,467.13 - 543.4,Year-round
+Sikkim,Shrimp,13.7,18.48,283.7 - 374.2,Year-round
+Sikkim,Shrimp,13.81,34.62,317.68 - 412.44,Year-round
+Sikkim,Shrimp,11.59,25.31,277.64 - 359.28,Year-round
+Sikkim,Shrimp,18.05,24.17,413.86 - 503.16,Year-round
+Sikkim,Shrimp,13.56,37.29,201.86 - 332.92,Year-round
+Sikkim,Shrimp,15.2,27.11,383.06 - 527.3,Year-round
+Tamil Nadu,Gilt Head Bream,5.21,17.73,334.98 - 454.27,Year-round
+Tamil Nadu,Gilt Head Bream,8.2,36.02,486.75 - 560.42,Year-round
+Tamil Nadu,Gilt Head Bream,11.08,15.07,493.24 - 628.57,Seasonal
+Tamil Nadu,Gilt Head Bream,17.68,11.77,281.5 - 341.87,Year-round
+Tamil Nadu,Gilt Head Bream,12.73,39.71,383.4 - 470.5,Seasonal
+Tamil Nadu,Gilt Head Bream,17.26,10.41,468.72 - 521.61,Year-round
+Tamil Nadu,Red Sea Bream,16.73,24.53,438.2 - 545.85,Year-round
+Tamil Nadu,Red Sea Bream,10.07,31.16,256.25 - 381.31,Seasonal
+Tamil Nadu,Red Sea Bream,8.91,10.27,394.49 - 495.6,Seasonal
+Tamil Nadu,Red Sea Bream,17.67,12.39,412.09 - 527.52,Year-round
+Tamil Nadu,Red Sea Bream,13.54,36.04,374.93 - 496.73,Year-round
+Tamil Nadu,Red Sea Bream,10.83,13.94,278.75 - 386.87,Year-round
+Tamil Nadu,Sea Bass,8.66,39.0,487.44 - 562.2,Seasonal
+Tamil Nadu,Sea Bass,15.35,35.12,296.9 - 435.8,Seasonal
+Tamil Nadu,Sea Bass,12.89,30.63,282.04 - 405.69,Seasonal
+Tamil Nadu,Sea Bass,6.6,34.65,241.69 - 366.42,Year-round
+Tamil Nadu,Sea Bass,12.37,19.62,257.68 - 338.62,Seasonal
+Tamil Nadu,Sea Bass,12.71,33.38,356.75 - 470.85,Year-round
+Tamil Nadu,Red Mullet,8.62,30.44,414.8 - 525.53,Year-round
+Tamil Nadu,Red Mullet,12.44,10.23,347.63 - 496.28,Year-round
+Tamil Nadu,Red Mullet,8.16,35.25,209.11 - 343.49,Seasonal
+Tamil Nadu,Red Mullet,9.65,38.13,403.14 - 465.05,Year-round
+Tamil Nadu,Red Mullet,7.99,20.43,386.07 - 490.55,Seasonal
+Tamil Nadu,Red Mullet,6.34,31.46,281.34 - 407.38,Seasonal
+Tamil Nadu,Horse Mackerel,15.56,16.52,310.0 - 399.1,Seasonal
+Tamil Nadu,Horse Mackerel,18.07,22.55,333.32 - 413.65,Seasonal
+Tamil Nadu,Horse Mackerel,9.75,18.0,351.78 - 479.55,Seasonal
+Tamil Nadu,Horse Mackerel,16.2,10.38,393.35 - 461.63,Year-round
+Tamil Nadu,Horse Mackerel,5.91,31.05,202.95 - 293.87,Seasonal
+Tamil Nadu,Horse Mackerel,7.64,35.99,333.26 - 396.96,Year-round
+Tamil Nadu,Black Sea Sprat,9.41,23.39,418.11 - 537.4,Year-round
+Tamil Nadu,Black Sea Sprat,5.79,13.13,370.69 - 473.84,Seasonal
+Tamil Nadu,Black Sea Sprat,7.35,32.55,370.48 - 447.95,Year-round
+Tamil Nadu,Black Sea Sprat,8.91,25.55,416.66 - 484.08,Seasonal
+Tamil Nadu,Black Sea Sprat,14.48,25.56,215.35 - 288.64,Year-round
+Tamil Nadu,Black Sea Sprat,9.45,37.89,237.38 - 352.63,Seasonal
+Tamil Nadu,Striped Red Mullet,8.87,23.92,239.99 - 382.76,Year-round
+Tamil Nadu,Striped Red Mullet,7.45,19.12,386.33 - 466.51,Seasonal
+Tamil Nadu,Striped Red Mullet,16.52,13.42,393.17 - 526.6,Year-round
+Tamil Nadu,Striped Red Mullet,16.47,17.97,442.03 - 517.21,Seasonal
+Tamil Nadu,Striped Red Mullet,14.58,12.44,330.5 - 409.77,Seasonal
+Tamil Nadu,Striped Red Mullet,8.98,22.96,499.71 - 571.75,Seasonal
+Tamil Nadu,Trout,6.56,14.37,463.14 - 565.96,Year-round
+Tamil Nadu,Trout,9.01,37.32,330.7 - 393.61,Seasonal
+Tamil Nadu,Trout,14.39,12.26,233.72 - 288.65,Seasonal
+Tamil Nadu,Trout,11.67,36.98,240.06 - 328.73,Seasonal
+Tamil Nadu,Trout,14.16,35.05,413.11 - 474.36,Year-round
+Tamil Nadu,Trout,18.99,35.75,251.18 - 344.86,Seasonal
+Tamil Nadu,Shrimp,8.95,18.37,479.2 - 531.67,Seasonal
+Tamil Nadu,Shrimp,6.12,16.69,322.37 - 407.15,Seasonal
+Tamil Nadu,Shrimp,5.98,34.66,393.89 - 508.63,Year-round
+Tamil Nadu,Shrimp,13.09,17.65,430.36 - 555.54,Seasonal
+Tamil Nadu,Shrimp,5.6,20.87,447.92 - 568.07,Seasonal
+Tamil Nadu,Shrimp,17.38,35.75,339.09 - 467.51,Year-round
+Telangana,Gilt Head Bream,14.62,19.35,357.6 - 414.2,Seasonal
+Telangana,Gilt Head Bream,18.71,39.43,398.54 - 530.23,Year-round
+Telangana,Gilt Head Bream,14.93,31.46,280.44 - 362.01,Seasonal
+Telangana,Gilt Head Bream,15.0,13.08,203.58 - 267.54,Year-round
+Telangana,Gilt Head Bream,18.36,23.47,337.79 - 395.49,Seasonal
+Telangana,Gilt Head Bream,16.05,25.03,371.83 - 435.55,Year-round
+Telangana,Red Sea Bream,18.16,17.3,365.17 - 434.42,Year-round
+Telangana,Red Sea Bream,8.81,28.93,207.5 - 329.57,Seasonal
+Telangana,Red Sea Bream,17.66,23.14,302.72 - 407.37,Year-round
+Telangana,Red Sea Bream,15.26,32.59,418.24 - 555.2,Year-round
+Telangana,Red Sea Bream,7.76,11.71,376.34 - 510.37,Seasonal
+Telangana,Red Sea Bream,12.88,13.28,260.86 - 410.69,Year-round
+Telangana,Sea Bass,10.24,27.89,282.26 - 334.92,Year-round
+Telangana,Sea Bass,8.91,35.15,414.69 - 533.38,Seasonal
+Telangana,Sea Bass,8.09,20.57,237.83 - 300.82,Year-round
+Telangana,Sea Bass,16.39,28.59,223.22 - 324.51,Year-round
+Telangana,Sea Bass,6.58,34.39,373.63 - 485.46,Seasonal
+Telangana,Sea Bass,6.06,29.81,442.76 - 560.04,Seasonal
+Telangana,Red Mullet,17.76,18.58,392.13 - 473.55,Year-round
+Telangana,Red Mullet,5.5,38.62,262.98 - 391.87,Year-round
+Telangana,Red Mullet,7.64,17.06,348.31 - 489.79,Year-round
+Telangana,Red Mullet,5.22,37.63,492.83 - 565.05,Seasonal
+Telangana,Red Mullet,7.2,29.38,269.86 - 335.54,Year-round
+Telangana,Red Mullet,10.26,34.98,348.02 - 489.19,Year-round
+Telangana,Horse Mackerel,11.08,39.52,287.67 - 367.16,Seasonal
+Telangana,Horse Mackerel,5.83,34.99,337.34 - 413.24,Year-round
+Telangana,Horse Mackerel,18.44,13.1,396.97 - 537.67,Year-round
+Telangana,Horse Mackerel,8.35,26.37,405.19 - 474.22,Year-round
+Telangana,Horse Mackerel,9.52,15.65,291.12 - 350.42,Year-round
+Telangana,Horse Mackerel,13.62,25.44,353.98 - 414.7,Year-round
+Telangana,Black Sea Sprat,6.95,29.3,259.15 - 318.92,Seasonal
+Telangana,Black Sea Sprat,6.3,17.11,249.48 - 311.94,Seasonal
+Telangana,Black Sea Sprat,13.06,30.31,404.8 - 517.67,Year-round
+Telangana,Black Sea Sprat,6.54,15.17,329.3 - 430.35,Year-round
+Telangana,Black Sea Sprat,17.49,39.75,249.08 - 368.26,Seasonal
+Telangana,Black Sea Sprat,12.01,30.57,267.88 - 331.06,Year-round
+Telangana,Striped Red Mullet,16.98,13.21,434.21 - 575.23,Seasonal
+Telangana,Striped Red Mullet,11.73,24.68,265.32 - 323.15,Year-round
+Telangana,Striped Red Mullet,16.43,38.09,482.23 - 549.7,Year-round
+Telangana,Striped Red Mullet,8.59,28.72,342.22 - 479.79,Seasonal
+Telangana,Striped Red Mullet,18.68,29.0,416.32 - 492.03,Seasonal
+Telangana,Striped Red Mullet,16.87,30.42,289.87 - 385.64,Year-round
+Telangana,Trout,17.35,17.05,395.68 - 486.2,Seasonal
+Telangana,Trout,7.61,11.39,373.88 - 515.14,Seasonal
+Telangana,Trout,17.3,39.98,263.43 - 339.95,Seasonal
+Telangana,Trout,15.18,17.1,225.19 - 352.19,Year-round
+Telangana,Trout,7.04,39.32,489.31 - 555.68,Seasonal
+Telangana,Trout,12.83,16.4,434.52 - 504.89,Year-round
+Telangana,Shrimp,6.33,20.27,494.42 - 607.38,Year-round
+Telangana,Shrimp,15.63,37.18,241.32 - 296.76,Seasonal
+Telangana,Shrimp,6.05,11.7,236.11 - 344.19,Seasonal
+Telangana,Shrimp,8.66,19.18,344.94 - 401.26,Seasonal
+Telangana,Shrimp,15.98,15.22,308.36 - 422.1,Year-round
+Telangana,Shrimp,6.92,27.47,289.96 - 343.4,Year-round
+Tripura,Gilt Head Bream,17.24,22.96,438.92 - 548.46,Seasonal
+Tripura,Gilt Head Bream,17.2,31.45,274.64 - 415.66,Seasonal
+Tripura,Gilt Head Bream,7.16,12.81,205.0 - 342.35,Year-round
+Tripura,Gilt Head Bream,11.75,20.36,251.83 - 364.03,Seasonal
+Tripura,Gilt Head Bream,7.44,38.79,455.47 - 591.85,Year-round
+Tripura,Gilt Head Bream,10.15,10.57,406.94 - 551.49,Seasonal
+Tripura,Red Sea Bream,13.8,23.66,355.4 - 406.15,Year-round
+Tripura,Red Sea Bream,16.2,14.37,463.39 - 540.31,Seasonal
+Tripura,Red Sea Bream,17.2,27.65,263.23 - 336.9,Seasonal
+Tripura,Red Sea Bream,6.04,27.35,379.29 - 503.18,Seasonal
+Tripura,Red Sea Bream,15.04,23.44,346.37 - 416.8,Seasonal
+Tripura,Red Sea Bream,18.68,31.06,352.22 - 446.37,Year-round
+Tripura,Sea Bass,13.49,37.5,440.25 - 535.36,Seasonal
+Tripura,Sea Bass,13.91,31.58,385.62 - 443.79,Seasonal
+Tripura,Sea Bass,8.69,37.45,300.62 - 445.85,Year-round
+Tripura,Sea Bass,19.02,29.11,469.6 - 565.25,Seasonal
+Tripura,Sea Bass,6.49,28.69,334.06 - 461.86,Year-round
+Tripura,Sea Bass,5.76,24.05,455.94 - 599.3,Seasonal
+Tripura,Red Mullet,11.28,25.52,225.26 - 373.72,Seasonal
+Tripura,Red Mullet,10.38,28.93,414.47 - 507.45,Year-round
+Tripura,Red Mullet,7.62,29.44,273.64 - 395.39,Year-round
+Tripura,Red Mullet,19.59,10.15,323.8 - 383.85,Year-round
+Tripura,Red Mullet,9.96,17.45,496.4 - 585.34,Seasonal
+Tripura,Red Mullet,19.94,34.02,453.69 - 567.22,Year-round
+Tripura,Horse Mackerel,11.17,17.03,205.9 - 343.83,Seasonal
+Tripura,Horse Mackerel,15.54,18.98,280.66 - 430.45,Year-round
+Tripura,Horse Mackerel,17.38,14.4,247.9 - 376.91,Year-round
+Tripura,Horse Mackerel,5.47,13.65,389.93 - 529.83,Seasonal
+Tripura,Horse Mackerel,16.55,34.33,320.11 - 464.82,Seasonal
+Tripura,Horse Mackerel,12.8,11.11,224.2 - 341.44,Year-round
+Tripura,Black Sea Sprat,6.31,38.09,447.66 - 576.79,Seasonal
+Tripura,Black Sea Sprat,13.13,39.05,244.36 - 388.44,Year-round
+Tripura,Black Sea Sprat,5.75,14.5,361.27 - 468.85,Seasonal
+Tripura,Black Sea Sprat,10.99,39.49,360.94 - 461.2,Year-round
+Tripura,Black Sea Sprat,5.21,27.01,479.68 - 596.27,Year-round
+Tripura,Black Sea Sprat,10.13,38.6,470.96 - 592.33,Year-round
+Tripura,Striped Red Mullet,6.08,30.53,350.97 - 477.48,Seasonal
+Tripura,Striped Red Mullet,9.85,34.58,360.96 - 496.95,Year-round
+Tripura,Striped Red Mullet,14.2,14.72,488.7 - 590.54,Year-round
+Tripura,Striped Red Mullet,13.77,17.99,209.4 - 271.35,Seasonal
+Tripura,Striped Red Mullet,19.68,25.06,336.49 - 461.83,Seasonal
+Tripura,Striped Red Mullet,12.81,30.08,444.5 - 520.57,Year-round
+Tripura,Trout,17.8,35.68,229.77 - 288.84,Seasonal
+Tripura,Trout,6.19,23.43,230.57 - 282.16,Seasonal
+Tripura,Trout,14.35,20.68,436.67 - 510.04,Year-round
+Tripura,Trout,9.11,19.6,428.95 - 559.17,Seasonal
+Tripura,Trout,18.0,27.81,238.13 - 330.89,Seasonal
+Tripura,Trout,6.75,23.6,455.95 - 564.08,Year-round
+Tripura,Shrimp,17.22,38.08,354.06 - 499.08,Seasonal
+Tripura,Shrimp,12.94,27.53,439.06 - 523.16,Seasonal
+Tripura,Shrimp,12.35,35.4,449.58 - 539.93,Year-round
+Tripura,Shrimp,19.02,31.78,475.33 - 616.17,Seasonal
+Tripura,Shrimp,12.3,20.02,232.05 - 305.93,Year-round
+Tripura,Shrimp,6.59,33.35,251.16 - 345.9,Year-round
+Uttar Pradesh,Gilt Head Bream,5.53,19.69,363.23 - 468.4,Seasonal
+Uttar Pradesh,Gilt Head Bream,9.48,30.17,298.63 - 376.44,Seasonal
+Uttar Pradesh,Gilt Head Bream,8.65,23.73,427.86 - 498.45,Seasonal
+Uttar Pradesh,Gilt Head Bream,14.96,17.13,346.78 - 425.39,Year-round
+Uttar Pradesh,Gilt Head Bream,13.46,16.15,422.6 - 477.83,Seasonal
+Uttar Pradesh,Gilt Head Bream,17.27,30.5,255.07 - 387.16,Year-round
+Uttar Pradesh,Red Sea Bream,9.79,37.18,237.99 - 305.84,Seasonal
+Uttar Pradesh,Red Sea Bream,8.52,13.71,237.11 - 345.43,Year-round
+Uttar Pradesh,Red Sea Bream,10.64,37.7,363.45 - 440.42,Seasonal
+Uttar Pradesh,Red Sea Bream,12.4,23.61,211.41 - 334.28,Seasonal
+Uttar Pradesh,Red Sea Bream,5.78,13.41,201.18 - 351.12,Year-round
+Uttar Pradesh,Red Sea Bream,17.98,28.09,418.26 - 479.78,Year-round
+Uttar Pradesh,Sea Bass,9.27,21.28,426.89 - 530.86,Seasonal
+Uttar Pradesh,Sea Bass,9.7,28.62,391.51 - 511.44,Seasonal
+Uttar Pradesh,Sea Bass,14.56,34.05,339.91 - 426.08,Year-round
+Uttar Pradesh,Sea Bass,16.11,13.54,426.96 - 486.49,Seasonal
+Uttar Pradesh,Sea Bass,12.31,28.75,483.86 - 591.83,Seasonal
+Uttar Pradesh,Sea Bass,7.6,31.74,351.61 - 469.6,Year-round
+Uttar Pradesh,Red Mullet,16.15,31.7,240.82 - 374.42,Seasonal
+Uttar Pradesh,Red Mullet,18.85,10.48,418.98 - 557.85,Seasonal
+Uttar Pradesh,Red Mullet,12.33,22.22,495.97 - 551.56,Seasonal
+Uttar Pradesh,Red Mullet,9.54,23.8,283.8 - 370.74,Year-round
+Uttar Pradesh,Red Mullet,12.68,25.81,368.48 - 435.56,Year-round
+Uttar Pradesh,Red Mullet,9.97,31.69,352.33 - 452.24,Seasonal
+Uttar Pradesh,Horse Mackerel,19.55,10.66,440.81 - 569.61,Year-round
+Uttar Pradesh,Horse Mackerel,6.35,17.7,227.75 - 287.85,Seasonal
+Uttar Pradesh,Horse Mackerel,16.74,38.12,407.58 - 473.16,Year-round
+Uttar Pradesh,Horse Mackerel,18.81,12.81,486.52 - 597.61,Year-round
+Uttar Pradesh,Horse Mackerel,11.04,37.6,395.08 - 454.12,Year-round
+Uttar Pradesh,Horse Mackerel,18.9,24.51,294.67 - 423.56,Seasonal
+Uttar Pradesh,Black Sea Sprat,12.45,13.7,320.29 - 405.36,Year-round
+Uttar Pradesh,Black Sea Sprat,6.57,18.04,356.06 - 462.63,Seasonal
+Uttar Pradesh,Black Sea Sprat,7.27,33.95,412.17 - 481.21,Seasonal
+Uttar Pradesh,Black Sea Sprat,10.69,11.42,252.93 - 398.52,Seasonal
+Uttar Pradesh,Black Sea Sprat,16.71,21.71,373.57 - 514.7,Year-round
+Uttar Pradesh,Black Sea Sprat,12.52,21.51,491.62 - 557.54,Seasonal
+Uttar Pradesh,Striped Red Mullet,14.76,36.0,468.19 - 610.17,Seasonal
+Uttar Pradesh,Striped Red Mullet,8.32,31.88,350.09 - 441.6,Year-round
+Uttar Pradesh,Striped Red Mullet,7.5,33.92,416.03 - 474.65,Year-round
+Uttar Pradesh,Striped Red Mullet,18.38,18.61,298.32 - 359.88,Seasonal
+Uttar Pradesh,Striped Red Mullet,13.25,28.59,399.05 - 532.68,Year-round
+Uttar Pradesh,Striped Red Mullet,18.24,24.19,355.91 - 424.96,Seasonal
+Uttar Pradesh,Trout,17.64,25.03,494.43 - 554.16,Seasonal
+Uttar Pradesh,Trout,18.49,38.23,401.26 - 517.7,Year-round
+Uttar Pradesh,Trout,13.24,27.73,395.82 - 471.39,Seasonal
+Uttar Pradesh,Trout,14.1,35.48,362.36 - 492.75,Seasonal
+Uttar Pradesh,Trout,16.43,31.41,262.25 - 369.13,Year-round
+Uttar Pradesh,Trout,6.54,26.06,225.54 - 305.84,Year-round
+Uttar Pradesh,Shrimp,10.84,38.55,295.92 - 432.73,Year-round
+Uttar Pradesh,Shrimp,9.41,30.16,410.65 - 497.82,Seasonal
+Uttar Pradesh,Shrimp,16.74,23.28,345.58 - 473.37,Seasonal
+Uttar Pradesh,Shrimp,13.48,25.12,204.05 - 290.34,Year-round
+Uttar Pradesh,Shrimp,17.13,20.85,357.28 - 474.35,Seasonal
+Uttar Pradesh,Shrimp,9.75,20.27,258.34 - 364.53,Seasonal
+Uttarakhand,Gilt Head Bream,14.72,10.88,385.43 - 486.38,Year-round
+Uttarakhand,Gilt Head Bream,6.15,22.79,332.7 - 449.57,Year-round
+Uttarakhand,Gilt Head Bream,11.13,24.0,215.81 - 269.57,Year-round
+Uttarakhand,Gilt Head Bream,10.8,18.02,326.45 - 385.89,Seasonal
+Uttarakhand,Gilt Head Bream,7.52,15.7,338.21 - 416.84,Seasonal
+Uttarakhand,Gilt Head Bream,6.58,30.16,390.63 - 521.2,Seasonal
+Uttarakhand,Red Sea Bream,6.1,18.21,494.0 - 603.63,Year-round
+Uttarakhand,Red Sea Bream,19.99,15.26,203.03 - 267.92,Year-round
+Uttarakhand,Red Sea Bream,18.81,39.05,362.17 - 457.99,Year-round
+Uttarakhand,Red Sea Bream,9.67,16.27,454.54 - 595.15,Seasonal
+Uttarakhand,Red Sea Bream,12.05,23.66,374.64 - 460.32,Year-round
+Uttarakhand,Red Sea Bream,12.55,11.8,474.78 - 586.33,Year-round
+Uttarakhand,Sea Bass,19.03,37.37,262.8 - 316.75,Year-round
+Uttarakhand,Sea Bass,13.72,38.43,216.11 - 276.73,Year-round
+Uttarakhand,Sea Bass,12.95,10.84,274.0 - 369.96,Seasonal
+Uttarakhand,Sea Bass,12.63,39.75,279.83 - 413.15,Seasonal
+Uttarakhand,Sea Bass,6.32,22.41,425.05 - 544.39,Seasonal
+Uttarakhand,Sea Bass,11.64,26.84,454.71 - 549.08,Seasonal
+Uttarakhand,Red Mullet,17.85,30.53,464.73 - 535.08,Seasonal
+Uttarakhand,Red Mullet,19.4,29.81,356.81 - 409.17,Seasonal
+Uttarakhand,Red Mullet,12.68,38.22,214.33 - 299.56,Seasonal
+Uttarakhand,Red Mullet,7.84,13.77,293.3 - 431.89,Seasonal
+Uttarakhand,Red Mullet,18.73,32.86,351.53 - 500.37,Year-round
+Uttarakhand,Red Mullet,7.06,20.09,376.02 - 436.31,Year-round
+Uttarakhand,Horse Mackerel,19.21,33.01,280.49 - 389.57,Seasonal
+Uttarakhand,Horse Mackerel,16.02,17.56,347.24 - 404.8,Seasonal
+Uttarakhand,Horse Mackerel,13.43,26.58,234.42 - 297.04,Seasonal
+Uttarakhand,Horse Mackerel,15.62,31.41,275.72 - 391.4,Seasonal
+Uttarakhand,Horse Mackerel,13.93,26.18,490.64 - 589.07,Year-round
+Uttarakhand,Horse Mackerel,9.32,28.12,214.88 - 274.35,Seasonal
+Uttarakhand,Black Sea Sprat,9.8,37.2,257.37 - 368.92,Year-round
+Uttarakhand,Black Sea Sprat,8.46,30.56,494.57 - 613.68,Seasonal
+Uttarakhand,Black Sea Sprat,19.23,18.04,443.44 - 498.98,Seasonal
+Uttarakhand,Black Sea Sprat,10.35,17.84,483.98 - 606.61,Seasonal
+Uttarakhand,Black Sea Sprat,17.36,29.43,490.68 - 612.08,Seasonal
+Uttarakhand,Black Sea Sprat,16.31,28.66,362.02 - 486.99,Seasonal
+Uttarakhand,Striped Red Mullet,13.89,24.47,386.77 - 437.78,Seasonal
+Uttarakhand,Striped Red Mullet,6.69,18.06,347.72 - 481.39,Seasonal
+Uttarakhand,Striped Red Mullet,15.72,28.11,289.68 - 380.76,Year-round
+Uttarakhand,Striped Red Mullet,10.83,23.31,467.39 - 558.53,Year-round
+Uttarakhand,Striped Red Mullet,8.33,33.41,260.35 - 318.36,Seasonal
+Uttarakhand,Striped Red Mullet,17.62,11.08,397.52 - 476.2,Seasonal
+Uttarakhand,Trout,18.73,35.64,404.95 - 460.19,Seasonal
+Uttarakhand,Trout,18.11,10.91,227.26 - 362.73,Seasonal
+Uttarakhand,Trout,17.68,31.81,494.23 - 559.8,Year-round
+Uttarakhand,Trout,14.41,24.15,487.94 - 605.55,Year-round
+Uttarakhand,Trout,19.98,10.74,450.57 - 537.11,Year-round
+Uttarakhand,Trout,17.88,16.98,234.65 - 317.26,Seasonal
+Uttarakhand,Shrimp,6.13,17.51,400.79 - 539.62,Year-round
+Uttarakhand,Shrimp,15.72,28.7,491.17 - 597.06,Year-round
+Uttarakhand,Shrimp,9.03,24.84,225.83 - 331.75,Year-round
+Uttarakhand,Shrimp,8.61,32.31,425.08 - 506.81,Year-round
+Uttarakhand,Shrimp,13.78,10.25,428.3 - 549.6,Year-round
+Uttarakhand,Shrimp,13.31,10.05,284.97 - 423.11,Year-round
+West Bengal,Gilt Head Bream,9.85,15.51,373.08 - 438.56,Seasonal
+West Bengal,Gilt Head Bream,17.28,13.5,396.8 - 480.92,Seasonal
+West Bengal,Gilt Head Bream,13.43,10.18,223.55 - 361.68,Year-round
+West Bengal,Gilt Head Bream,19.62,34.77,218.0 - 305.63,Seasonal
+West Bengal,Gilt Head Bream,13.53,36.45,482.57 - 606.53,Seasonal
+West Bengal,Gilt Head Bream,12.53,23.13,301.91 - 423.81,Year-round
+West Bengal,Red Sea Bream,7.87,33.72,336.19 - 416.35,Year-round
+West Bengal,Red Sea Bream,14.24,24.49,317.1 - 458.0,Seasonal
+West Bengal,Red Sea Bream,8.78,37.62,374.48 - 477.82,Year-round
+West Bengal,Red Sea Bream,19.17,16.37,356.04 - 453.51,Seasonal
+West Bengal,Red Sea Bream,6.94,26.11,480.97 - 561.81,Year-round
+West Bengal,Red Sea Bream,6.3,28.16,217.13 - 334.41,Seasonal
+West Bengal,Sea Bass,15.93,15.99,311.38 - 411.55,Year-round
+West Bengal,Sea Bass,9.59,25.74,395.56 - 523.51,Year-round
+West Bengal,Sea Bass,17.28,15.15,442.35 - 561.64,Seasonal
+West Bengal,Sea Bass,16.15,23.14,445.34 - 550.27,Year-round
+West Bengal,Sea Bass,12.87,29.18,301.4 - 442.09,Year-round
+West Bengal,Sea Bass,8.84,22.21,403.3 - 475.98,Year-round
+West Bengal,Red Mullet,12.42,36.84,280.3 - 371.36,Seasonal
+West Bengal,Red Mullet,15.87,15.69,467.67 - 560.77,Year-round
+West Bengal,Red Mullet,17.97,19.62,253.5 - 327.44,Seasonal
+West Bengal,Red Mullet,12.82,14.49,219.67 - 342.62,Year-round
+West Bengal,Red Mullet,13.58,23.26,304.02 - 428.66,Year-round
+West Bengal,Red Mullet,9.59,12.19,479.79 - 569.25,Year-round
+West Bengal,Horse Mackerel,6.95,20.37,442.31 - 516.95,Seasonal
+West Bengal,Horse Mackerel,17.46,27.14,382.24 - 484.56,Seasonal
+West Bengal,Horse Mackerel,13.33,25.83,396.63 - 469.95,Year-round
+West Bengal,Horse Mackerel,5.26,25.51,358.87 - 448.96,Seasonal
+West Bengal,Horse Mackerel,10.28,26.3,221.82 - 350.83,Seasonal
+West Bengal,Horse Mackerel,11.23,18.51,285.16 - 383.39,Seasonal
+West Bengal,Black Sea Sprat,14.93,20.67,442.66 - 522.13,Seasonal
+West Bengal,Black Sea Sprat,5.37,10.12,268.16 - 358.8,Seasonal
+West Bengal,Black Sea Sprat,17.27,37.9,363.53 - 479.67,Seasonal
+West Bengal,Black Sea Sprat,10.09,24.95,331.6 - 403.43,Seasonal
+West Bengal,Black Sea Sprat,17.86,22.45,226.8 - 320.58,Year-round
+West Bengal,Black Sea Sprat,12.03,27.74,466.05 - 604.94,Seasonal
+West Bengal,Striped Red Mullet,11.42,27.88,226.9 - 310.63,Year-round
+West Bengal,Striped Red Mullet,13.25,35.73,342.23 - 392.64,Year-round
+West Bengal,Striped Red Mullet,19.0,20.34,248.3 - 354.61,Year-round
+West Bengal,Striped Red Mullet,7.67,36.66,332.57 - 396.86,Seasonal
+West Bengal,Striped Red Mullet,6.7,27.11,458.55 - 556.26,Year-round
+West Bengal,Striped Red Mullet,18.23,23.02,424.28 - 574.25,Year-round
+West Bengal,Trout,9.31,26.74,291.29 - 349.94,Year-round
+West Bengal,Trout,19.44,15.27,253.27 - 394.78,Year-round
+West Bengal,Trout,9.3,18.41,247.92 - 314.33,Year-round
+West Bengal,Trout,19.59,26.32,367.94 - 469.95,Year-round
+West Bengal,Trout,18.22,19.85,233.85 - 370.85,Seasonal
+West Bengal,Trout,5.75,28.1,442.03 - 507.73,Year-round
+West Bengal,Shrimp,11.8,39.68,216.42 - 301.93,Year-round
+West Bengal,Shrimp,13.28,27.97,282.32 - 372.33,Year-round
+West Bengal,Shrimp,19.08,34.15,455.17 - 560.23,Year-round
+West Bengal,Shrimp,9.99,13.75,231.97 - 350.8,Year-round
+West Bengal,Shrimp,9.28,38.85,293.85 - 353.66,Year-round
+West Bengal,Shrimp,6.48,27.39,388.36 - 474.88,Year-round
+Andaman and Nicobar Islands,Gilt Head Bream,11.5,33.99,421.84 - 514.47,Year-round
+Andaman and Nicobar Islands,Gilt Head Bream,13.47,15.39,229.93 - 285.38,Year-round
+Andaman and Nicobar Islands,Gilt Head Bream,16.93,24.31,239.26 - 312.82,Seasonal
+Andaman and Nicobar Islands,Gilt Head Bream,19.04,27.93,442.83 - 572.84,Seasonal
+Andaman and Nicobar Islands,Gilt Head Bream,19.63,38.97,264.58 - 395.69,Seasonal
+Andaman and Nicobar Islands,Gilt Head Bream,12.76,13.73,488.66 - 567.65,Seasonal
+Andaman and Nicobar Islands,Red Sea Bream,6.34,25.35,475.56 - 615.97,Seasonal
+Andaman and Nicobar Islands,Red Sea Bream,10.85,13.18,401.13 - 480.02,Seasonal
+Andaman and Nicobar Islands,Red Sea Bream,18.72,15.01,236.35 - 294.89,Year-round
+Andaman and Nicobar Islands,Red Sea Bream,9.96,35.12,292.96 - 393.71,Seasonal
+Andaman and Nicobar Islands,Red Sea Bream,6.08,16.8,479.45 - 620.29,Year-round
+Andaman and Nicobar Islands,Red Sea Bream,14.04,13.22,352.45 - 476.0,Year-round
+Andaman and Nicobar Islands,Sea Bass,18.64,29.02,221.57 - 362.47,Year-round
+Andaman and Nicobar Islands,Sea Bass,17.22,17.02,260.19 - 381.7,Year-round
+Andaman and Nicobar Islands,Sea Bass,7.69,27.34,487.39 - 587.7,Year-round
+Andaman and Nicobar Islands,Sea Bass,15.99,20.09,298.58 - 377.07,Seasonal
+Andaman and Nicobar Islands,Sea Bass,7.89,15.73,430.63 - 507.19,Year-round
+Andaman and Nicobar Islands,Sea Bass,5.15,12.25,360.7 - 496.14,Year-round
+Andaman and Nicobar Islands,Red Mullet,18.98,16.21,307.47 - 372.41,Seasonal
+Andaman and Nicobar Islands,Red Mullet,14.89,25.32,343.11 - 476.6,Seasonal
+Andaman and Nicobar Islands,Red Mullet,12.38,36.89,442.01 - 492.38,Seasonal
+Andaman and Nicobar Islands,Red Mullet,12.94,24.45,404.17 - 540.05,Seasonal
+Andaman and Nicobar Islands,Red Mullet,14.65,17.88,215.7 - 288.8,Year-round
+Andaman and Nicobar Islands,Red Mullet,17.02,21.32,471.0 - 527.97,Seasonal
+Andaman and Nicobar Islands,Horse Mackerel,8.01,16.46,287.56 - 354.84,Seasonal
+Andaman and Nicobar Islands,Horse Mackerel,15.08,25.94,229.66 - 360.88,Seasonal
+Andaman and Nicobar Islands,Horse Mackerel,5.73,16.31,369.77 - 481.32,Year-round
+Andaman and Nicobar Islands,Horse Mackerel,14.84,21.47,284.54 - 406.74,Seasonal
+Andaman and Nicobar Islands,Horse Mackerel,9.81,12.81,328.13 - 391.01,Year-round
+Andaman and Nicobar Islands,Horse Mackerel,11.69,11.48,370.8 - 459.07,Seasonal
+Andaman and Nicobar Islands,Black Sea Sprat,9.65,34.36,460.15 - 577.45,Seasonal
+Andaman and Nicobar Islands,Black Sea Sprat,6.09,18.71,464.67 - 529.37,Seasonal
+Andaman and Nicobar Islands,Black Sea Sprat,18.24,10.6,425.82 - 523.2,Seasonal
+Andaman and Nicobar Islands,Black Sea Sprat,6.4,24.04,466.26 - 580.39,Year-round
+Andaman and Nicobar Islands,Black Sea Sprat,15.16,31.08,486.79 - 589.93,Year-round
+Andaman and Nicobar Islands,Black Sea Sprat,19.53,37.99,461.2 - 553.38,Year-round
+Andaman and Nicobar Islands,Striped Red Mullet,17.64,20.87,398.14 - 495.22,Seasonal
+Andaman and Nicobar Islands,Striped Red Mullet,6.13,27.31,392.79 - 527.77,Seasonal
+Andaman and Nicobar Islands,Striped Red Mullet,11.54,32.46,448.38 - 575.5,Year-round
+Andaman and Nicobar Islands,Striped Red Mullet,15.08,25.26,416.34 - 501.61,Year-round
+Andaman and Nicobar Islands,Striped Red Mullet,17.64,19.1,328.83 - 425.9,Seasonal
+Andaman and Nicobar Islands,Striped Red Mullet,10.53,35.64,440.66 - 525.54,Year-round
+Andaman and Nicobar Islands,Trout,6.25,37.86,373.92 - 490.62,Year-round
+Andaman and Nicobar Islands,Trout,15.59,34.63,270.9 - 387.04,Year-round
+Andaman and Nicobar Islands,Trout,17.47,33.0,305.19 - 392.87,Year-round
+Andaman and Nicobar Islands,Trout,17.54,13.04,402.77 - 477.64,Year-round
+Andaman and Nicobar Islands,Trout,17.09,18.39,257.46 - 357.88,Year-round
+Andaman and Nicobar Islands,Trout,5.55,37.08,221.99 - 361.41,Year-round
+Andaman and Nicobar Islands,Shrimp,13.26,34.5,487.88 - 617.14,Seasonal
+Andaman and Nicobar Islands,Shrimp,11.03,12.29,419.81 - 531.5,Seasonal
+Andaman and Nicobar Islands,Shrimp,7.28,30.0,285.29 - 393.86,Year-round
+Andaman and Nicobar Islands,Shrimp,11.81,35.9,475.09 - 624.77,Seasonal
+Andaman and Nicobar Islands,Shrimp,13.07,29.91,435.19 - 524.67,Seasonal
+Andaman and Nicobar Islands,Shrimp,5.27,37.98,223.5 - 342.32,Seasonal
+Chandigarh,Gilt Head Bream,5.31,16.16,346.12 - 483.95,Year-round
+Chandigarh,Gilt Head Bream,9.54,24.03,281.84 - 378.19,Seasonal
+Chandigarh,Gilt Head Bream,17.04,17.41,469.88 - 610.97,Seasonal
+Chandigarh,Gilt Head Bream,5.23,18.51,330.97 - 444.35,Year-round
+Chandigarh,Gilt Head Bream,14.01,11.03,349.27 - 414.75,Year-round
+Chandigarh,Gilt Head Bream,12.83,10.4,205.83 - 353.13,Year-round
+Chandigarh,Red Sea Bream,12.56,15.48,372.19 - 485.93,Year-round
+Chandigarh,Red Sea Bream,13.57,10.27,277.34 - 368.03,Year-round
+Chandigarh,Red Sea Bream,12.26,29.44,205.51 - 320.91,Year-round
+Chandigarh,Red Sea Bream,9.25,11.14,498.38 - 596.58,Seasonal
+Chandigarh,Red Sea Bream,15.34,13.81,307.02 - 416.27,Seasonal
+Chandigarh,Red Sea Bream,17.58,29.63,282.63 - 429.4,Seasonal
+Chandigarh,Sea Bass,8.02,38.77,384.02 - 460.19,Year-round
+Chandigarh,Sea Bass,12.29,29.92,358.41 - 505.36,Seasonal
+Chandigarh,Sea Bass,15.81,37.55,322.41 - 391.54,Seasonal
+Chandigarh,Sea Bass,16.82,19.33,298.07 - 349.15,Year-round
+Chandigarh,Sea Bass,13.58,37.22,236.74 - 340.15,Seasonal
+Chandigarh,Sea Bass,13.76,12.47,429.7 - 486.68,Year-round
+Chandigarh,Red Mullet,9.87,38.35,284.8 - 380.89,Seasonal
+Chandigarh,Red Mullet,12.91,32.92,201.52 - 343.3,Year-round
+Chandigarh,Red Mullet,14.39,30.07,237.89 - 382.46,Year-round
+Chandigarh,Red Mullet,12.07,27.15,213.92 - 326.32,Year-round
+Chandigarh,Red Mullet,16.31,16.57,332.91 - 444.69,Seasonal
+Chandigarh,Red Mullet,14.83,17.18,284.16 - 416.21,Year-round
+Chandigarh,Horse Mackerel,17.34,25.55,338.54 - 419.99,Year-round
+Chandigarh,Horse Mackerel,16.06,12.1,459.36 - 559.32,Year-round
+Chandigarh,Horse Mackerel,15.67,11.56,457.92 - 553.75,Seasonal
+Chandigarh,Horse Mackerel,9.14,37.15,445.36 - 529.98,Year-round
+Chandigarh,Horse Mackerel,16.25,12.9,342.82 - 491.99,Seasonal
+Chandigarh,Horse Mackerel,11.84,21.93,297.41 - 445.56,Year-round
+Chandigarh,Black Sea Sprat,16.7,33.14,268.43 - 410.65,Year-round
+Chandigarh,Black Sea Sprat,7.64,14.35,276.43 - 417.88,Year-round
+Chandigarh,Black Sea Sprat,12.3,25.15,252.92 - 384.2,Year-round
+Chandigarh,Black Sea Sprat,8.95,16.74,339.65 - 416.16,Year-round
+Chandigarh,Black Sea Sprat,10.54,14.07,355.52 - 416.78,Year-round
+Chandigarh,Black Sea Sprat,9.4,24.72,331.58 - 457.61,Seasonal
+Chandigarh,Striped Red Mullet,16.92,23.69,251.23 - 327.95,Seasonal
+Chandigarh,Striped Red Mullet,17.81,33.45,231.05 - 291.8,Year-round
+Chandigarh,Striped Red Mullet,19.07,37.37,483.82 - 558.29,Year-round
+Chandigarh,Striped Red Mullet,13.11,39.04,276.55 - 412.4,Seasonal
+Chandigarh,Striped Red Mullet,6.65,38.42,327.01 - 377.94,Year-round
+Chandigarh,Striped Red Mullet,16.47,18.54,466.28 - 553.07,Year-round
+Chandigarh,Trout,14.2,36.06,398.57 - 491.98,Seasonal
+Chandigarh,Trout,16.69,10.67,379.97 - 499.51,Year-round
+Chandigarh,Trout,5.71,30.06,458.83 - 525.12,Seasonal
+Chandigarh,Trout,9.84,23.21,449.96 - 592.9,Year-round
+Chandigarh,Trout,9.81,26.57,215.15 - 269.54,Seasonal
+Chandigarh,Trout,18.87,33.57,297.73 - 429.43,Seasonal
+Chandigarh,Shrimp,5.01,34.18,223.77 - 292.92,Seasonal
+Chandigarh,Shrimp,11.72,23.37,468.69 - 531.31,Seasonal
+Chandigarh,Shrimp,14.62,10.7,329.05 - 466.55,Seasonal
+Chandigarh,Shrimp,11.47,32.91,497.78 - 613.68,Year-round
+Chandigarh,Shrimp,5.8,14.21,386.76 - 457.55,Seasonal
+Chandigarh,Shrimp,17.85,37.83,484.95 - 590.43,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Gilt Head Bream,15.84,12.34,231.84 - 331.12,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Gilt Head Bream,13.82,36.87,395.96 - 480.86,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Gilt Head Bream,14.59,13.87,329.09 - 406.57,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Gilt Head Bream,15.05,12.16,277.0 - 398.39,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Gilt Head Bream,16.84,10.94,490.06 - 592.72,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Gilt Head Bream,8.96,10.16,400.55 - 547.81,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Red Sea Bream,14.82,23.28,484.67 - 559.27,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Red Sea Bream,14.12,22.08,262.35 - 393.69,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Red Sea Bream,8.22,32.14,256.74 - 364.09,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Red Sea Bream,13.31,15.65,216.87 - 274.94,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Red Sea Bream,8.51,11.49,280.55 - 395.97,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Red Sea Bream,7.14,25.27,448.91 - 533.89,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Sea Bass,12.69,18.03,336.49 - 433.56,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Sea Bass,16.66,26.7,393.73 - 445.08,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Sea Bass,13.17,15.05,428.14 - 576.63,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Sea Bass,15.75,31.18,270.26 - 347.22,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Sea Bass,13.11,35.49,344.04 - 431.36,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Sea Bass,17.83,25.44,231.71 - 351.12,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Red Mullet,14.5,12.98,381.25 - 443.35,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Red Mullet,7.45,20.88,275.3 - 393.64,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Red Mullet,11.46,15.24,496.13 - 602.25,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Red Mullet,14.28,18.49,468.46 - 520.88,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Red Mullet,11.36,29.5,207.41 - 338.44,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Red Mullet,13.4,32.17,443.78 - 506.64,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Horse Mackerel,15.29,17.5,219.68 - 338.74,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Horse Mackerel,12.04,25.13,375.52 - 476.84,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Horse Mackerel,19.56,15.27,379.13 - 471.55,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Horse Mackerel,10.34,25.48,291.45 - 410.24,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Horse Mackerel,9.57,15.45,225.77 - 347.19,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Horse Mackerel,11.66,15.64,395.94 - 460.79,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Black Sea Sprat,10.52,13.02,292.89 - 409.26,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Black Sea Sprat,15.54,16.48,255.02 - 348.19,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Black Sea Sprat,5.35,36.9,263.21 - 335.97,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Black Sea Sprat,5.53,37.35,432.6 - 527.67,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Black Sea Sprat,14.67,20.19,412.38 - 518.13,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Black Sea Sprat,7.52,35.01,258.53 - 397.79,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Striped Red Mullet,9.02,28.12,461.4 - 611.29,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Striped Red Mullet,19.76,38.82,296.15 - 445.78,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Striped Red Mullet,10.51,37.41,310.49 - 397.83,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Striped Red Mullet,18.03,35.03,449.9 - 569.72,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Striped Red Mullet,17.27,11.15,461.24 - 562.51,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Striped Red Mullet,15.48,35.62,242.05 - 346.47,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Trout,11.7,20.29,241.47 - 335.42,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Trout,15.75,17.49,463.31 - 594.63,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Trout,13.99,34.22,232.81 - 322.54,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Trout,7.55,18.15,263.82 - 374.18,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Trout,17.75,16.39,400.63 - 504.91,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Trout,19.57,18.29,437.72 - 510.24,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Shrimp,11.22,19.81,382.01 - 525.05,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Shrimp,8.37,24.82,488.48 - 615.44,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Shrimp,17.31,18.56,271.76 - 400.46,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Shrimp,9.87,31.63,397.34 - 543.25,Seasonal
+Dadra and Nagar Haveli and Daman and Diu,Shrimp,10.32,28.38,375.61 - 480.37,Year-round
+Dadra and Nagar Haveli and Daman and Diu,Shrimp,11.41,18.17,315.25 - 448.84,Seasonal
+Delhi,Gilt Head Bream,12.5,35.21,410.39 - 539.29,Seasonal
+Delhi,Gilt Head Bream,17.4,34.92,287.72 - 425.21,Year-round
+Delhi,Gilt Head Bream,13.86,39.68,250.05 - 304.72,Seasonal
+Delhi,Gilt Head Bream,8.58,38.25,381.12 - 441.65,Seasonal
+Delhi,Gilt Head Bream,11.13,29.86,339.46 - 452.52,Year-round
+Delhi,Gilt Head Bream,15.13,26.28,269.91 - 377.28,Seasonal
+Delhi,Red Sea Bream,16.03,29.91,234.02 - 356.08,Year-round
+Delhi,Red Sea Bream,10.89,20.26,449.67 - 527.15,Seasonal
+Delhi,Red Sea Bream,5.57,21.02,362.69 - 427.5,Seasonal
+Delhi,Red Sea Bream,9.47,22.36,267.13 - 410.39,Year-round
+Delhi,Red Sea Bream,18.75,31.16,401.53 - 490.97,Year-round
+Delhi,Red Sea Bream,15.14,31.17,346.77 - 435.06,Seasonal
+Delhi,Sea Bass,15.96,25.66,222.25 - 291.45,Year-round
+Delhi,Sea Bass,5.72,35.51,499.27 - 637.97,Seasonal
+Delhi,Sea Bass,8.14,10.35,499.23 - 577.33,Seasonal
+Delhi,Sea Bass,7.64,33.6,293.76 - 435.21,Year-round
+Delhi,Sea Bass,15.05,15.64,387.44 - 471.08,Year-round
+Delhi,Sea Bass,14.04,18.87,466.46 - 600.52,Seasonal
+Delhi,Red Mullet,8.68,23.45,296.16 - 420.6,Seasonal
+Delhi,Red Mullet,19.42,15.68,402.92 - 462.14,Year-round
+Delhi,Red Mullet,15.36,25.4,395.18 - 534.15,Year-round
+Delhi,Red Mullet,11.09,13.38,373.06 - 427.16,Seasonal
+Delhi,Red Mullet,9.88,39.51,400.21 - 454.59,Seasonal
+Delhi,Red Mullet,6.57,13.86,367.1 - 506.5,Year-round
+Delhi,Horse Mackerel,9.99,23.15,278.81 - 345.28,Seasonal
+Delhi,Horse Mackerel,14.6,13.6,345.06 - 463.6,Seasonal
+Delhi,Horse Mackerel,6.08,14.42,221.97 - 353.21,Year-round
+Delhi,Horse Mackerel,17.12,15.7,233.05 - 355.18,Year-round
+Delhi,Horse Mackerel,14.63,11.15,386.44 - 514.23,Year-round
+Delhi,Horse Mackerel,9.75,30.14,209.43 - 332.08,Seasonal
+Delhi,Black Sea Sprat,18.06,20.27,430.93 - 537.07,Seasonal
+Delhi,Black Sea Sprat,19.61,39.59,353.78 - 497.21,Year-round
+Delhi,Black Sea Sprat,19.47,12.21,216.03 - 359.79,Year-round
+Delhi,Black Sea Sprat,13.69,26.67,421.89 - 521.81,Seasonal
+Delhi,Black Sea Sprat,16.21,19.35,291.87 - 425.66,Seasonal
+Delhi,Black Sea Sprat,16.08,14.25,464.74 - 572.98,Year-round
+Delhi,Striped Red Mullet,15.17,22.43,406.86 - 491.26,Seasonal
+Delhi,Striped Red Mullet,15.67,13.0,210.06 - 316.1,Seasonal
+Delhi,Striped Red Mullet,5.74,10.93,366.25 - 492.46,Year-round
+Delhi,Striped Red Mullet,5.24,12.76,298.01 - 391.72,Seasonal
+Delhi,Striped Red Mullet,11.71,12.17,486.24 - 558.57,Seasonal
+Delhi,Striped Red Mullet,7.13,29.19,216.41 - 307.14,Year-round
+Delhi,Trout,5.08,32.45,470.92 - 534.89,Seasonal
+Delhi,Trout,11.32,31.23,338.81 - 469.46,Seasonal
+Delhi,Trout,7.12,10.02,443.04 - 501.8,Seasonal
+Delhi,Trout,13.46,25.49,418.09 - 526.08,Seasonal
+Delhi,Trout,14.06,14.92,420.79 - 500.91,Seasonal
+Delhi,Trout,10.66,23.34,213.93 - 265.3,Seasonal
+Delhi,Shrimp,14.94,14.75,406.44 - 469.25,Seasonal
+Delhi,Shrimp,12.79,26.95,400.91 - 547.04,Seasonal
+Delhi,Shrimp,18.38,15.89,384.15 - 442.93,Year-round
+Delhi,Shrimp,19.04,36.0,494.77 - 597.56,Seasonal
+Delhi,Shrimp,10.67,13.09,415.71 - 516.1,Year-round
+Delhi,Shrimp,17.87,18.96,477.12 - 550.1,Seasonal
+Lakshadweep,Gilt Head Bream,10.12,34.1,469.19 - 571.01,Seasonal
+Lakshadweep,Gilt Head Bream,14.49,18.65,391.54 - 470.22,Year-round
+Lakshadweep,Gilt Head Bream,12.34,20.26,477.27 - 529.7,Year-round
+Lakshadweep,Gilt Head Bream,10.88,17.91,486.39 - 596.75,Year-round
+Lakshadweep,Gilt Head Bream,15.91,10.02,481.06 - 547.51,Seasonal
+Lakshadweep,Gilt Head Bream,7.8,18.08,440.2 - 535.59,Seasonal
+Lakshadweep,Red Sea Bream,9.73,13.46,232.1 - 354.04,Seasonal
+Lakshadweep,Red Sea Bream,12.6,35.33,271.77 - 363.29,Year-round
+Lakshadweep,Red Sea Bream,6.55,22.95,268.98 - 370.57,Seasonal
+Lakshadweep,Red Sea Bream,14.37,29.6,221.11 - 334.21,Seasonal
+Lakshadweep,Red Sea Bream,10.72,22.36,418.27 - 513.44,Seasonal
+Lakshadweep,Red Sea Bream,18.94,15.53,331.06 - 420.3,Seasonal
+Lakshadweep,Sea Bass,8.01,22.4,261.86 - 399.52,Year-round
+Lakshadweep,Sea Bass,14.93,16.22,471.76 - 605.61,Seasonal
+Lakshadweep,Sea Bass,18.04,27.05,331.85 - 388.58,Seasonal
+Lakshadweep,Sea Bass,15.2,35.27,268.54 - 405.18,Seasonal
+Lakshadweep,Sea Bass,6.78,10.41,290.97 - 410.76,Year-round
+Lakshadweep,Sea Bass,17.55,25.37,240.57 - 347.67,Year-round
+Lakshadweep,Red Mullet,8.47,14.09,259.01 - 314.54,Seasonal
+Lakshadweep,Red Mullet,5.22,27.25,320.68 - 408.15,Seasonal
+Lakshadweep,Red Mullet,7.91,20.37,307.35 - 358.2,Seasonal
+Lakshadweep,Red Mullet,16.65,32.47,298.63 - 409.72,Year-round
+Lakshadweep,Red Mullet,13.15,29.61,316.12 - 430.84,Seasonal
+Lakshadweep,Red Mullet,11.24,32.4,228.15 - 329.4,Year-round
+Lakshadweep,Horse Mackerel,6.57,34.68,263.01 - 352.42,Year-round
+Lakshadweep,Horse Mackerel,12.23,27.14,447.66 - 525.18,Year-round
+Lakshadweep,Horse Mackerel,11.62,24.72,454.63 - 575.24,Year-round
+Lakshadweep,Horse Mackerel,10.99,22.46,322.39 - 404.84,Year-round
+Lakshadweep,Horse Mackerel,9.04,34.09,213.24 - 362.45,Seasonal
+Lakshadweep,Horse Mackerel,9.38,34.33,226.27 - 356.84,Seasonal
+Lakshadweep,Black Sea Sprat,11.19,26.12,214.79 - 265.02,Seasonal
+Lakshadweep,Black Sea Sprat,16.53,23.4,341.85 - 456.21,Seasonal
+Lakshadweep,Black Sea Sprat,14.72,31.36,253.54 - 311.49,Year-round
+Lakshadweep,Black Sea Sprat,9.71,29.0,231.74 - 344.59,Seasonal
+Lakshadweep,Black Sea Sprat,7.53,34.65,430.78 - 540.45,Seasonal
+Lakshadweep,Black Sea Sprat,5.56,23.35,233.94 - 319.08,Year-round
+Lakshadweep,Striped Red Mullet,10.39,24.26,309.05 - 423.15,Year-round
+Lakshadweep,Striped Red Mullet,8.14,14.35,471.31 - 618.2,Seasonal
+Lakshadweep,Striped Red Mullet,15.93,37.96,283.66 - 428.68,Year-round
+Lakshadweep,Striped Red Mullet,6.18,30.8,435.42 - 568.06,Seasonal
+Lakshadweep,Striped Red Mullet,15.04,34.95,245.09 - 298.95,Year-round
+Lakshadweep,Striped Red Mullet,13.8,17.84,494.57 - 634.36,Seasonal
+Lakshadweep,Trout,5.46,18.25,209.84 - 301.87,Seasonal
+Lakshadweep,Trout,8.51,12.53,277.76 - 329.66,Seasonal
+Lakshadweep,Trout,12.74,14.61,476.52 - 602.26,Seasonal
+Lakshadweep,Trout,9.06,34.14,384.65 - 510.03,Year-round
+Lakshadweep,Trout,8.3,23.16,434.6 - 563.0,Year-round
+Lakshadweep,Trout,9.47,29.79,241.09 - 359.78,Year-round
+Lakshadweep,Shrimp,9.11,19.45,235.04 - 312.36,Seasonal
+Lakshadweep,Shrimp,8.89,18.77,411.59 - 535.14,Seasonal
+Lakshadweep,Shrimp,15.31,12.87,476.77 - 583.62,Seasonal
+Lakshadweep,Shrimp,5.94,34.63,227.7 - 345.1,Seasonal
+Lakshadweep,Shrimp,17.59,23.45,391.01 - 463.13,Seasonal
+Lakshadweep,Shrimp,11.02,19.01,440.98 - 518.18,Seasonal
+Puducherry,Gilt Head Bream,18.41,24.94,452.54 - 582.68,Year-round
+Puducherry,Gilt Head Bream,11.82,32.35,264.07 - 315.14,Year-round
+Puducherry,Gilt Head Bream,12.87,34.18,306.04 - 420.26,Seasonal
+Puducherry,Gilt Head Bream,16.91,36.23,455.3 - 583.02,Seasonal
+Puducherry,Gilt Head Bream,17.83,20.39,491.91 - 639.89,Seasonal
+Puducherry,Gilt Head Bream,19.13,36.64,230.68 - 355.09,Year-round
+Puducherry,Red Sea Bream,15.61,10.94,461.06 - 524.92,Year-round
+Puducherry,Red Sea Bream,6.69,31.18,473.49 - 588.74,Seasonal
+Puducherry,Red Sea Bream,10.96,20.09,270.35 - 368.41,Seasonal
+Puducherry,Red Sea Bream,17.9,13.68,330.04 - 419.71,Year-round
+Puducherry,Red Sea Bream,19.48,10.45,344.34 - 427.67,Year-round
+Puducherry,Red Sea Bream,8.14,17.23,238.97 - 360.51,Seasonal
+Puducherry,Sea Bass,15.29,35.0,274.99 - 385.94,Year-round
+Puducherry,Sea Bass,12.99,37.93,485.43 - 571.58,Seasonal
+Puducherry,Sea Bass,8.21,13.17,404.92 - 520.99,Year-round
+Puducherry,Sea Bass,11.24,35.51,268.91 - 342.88,Year-round
+Puducherry,Sea Bass,11.65,27.58,492.82 - 596.05,Year-round
+Puducherry,Sea Bass,18.7,22.28,424.47 - 485.82,Seasonal
+Puducherry,Red Mullet,17.24,39.65,316.66 - 371.4,Seasonal
+Puducherry,Red Mullet,18.66,38.87,328.37 - 398.12,Seasonal
+Puducherry,Red Mullet,16.56,24.99,291.56 - 438.94,Year-round
+Puducherry,Red Mullet,12.24,19.93,422.09 - 503.37,Year-round
+Puducherry,Red Mullet,7.58,25.9,287.0 - 399.89,Year-round
+Puducherry,Red Mullet,19.77,10.87,301.44 - 362.23,Year-round
+Puducherry,Horse Mackerel,19.0,36.02,270.08 - 397.92,Seasonal
+Puducherry,Horse Mackerel,13.42,24.26,437.18 - 500.54,Year-round
+Puducherry,Horse Mackerel,10.94,38.91,361.69 - 440.48,Seasonal
+Puducherry,Horse Mackerel,11.23,22.08,210.86 - 315.98,Year-round
+Puducherry,Horse Mackerel,5.33,19.11,476.32 - 558.41,Year-round
+Puducherry,Horse Mackerel,8.62,30.17,259.03 - 398.59,Seasonal
+Puducherry,Black Sea Sprat,16.93,15.44,413.6 - 502.1,Year-round
+Puducherry,Black Sea Sprat,15.17,27.16,344.03 - 443.17,Year-round
+Puducherry,Black Sea Sprat,12.21,21.29,308.96 - 364.18,Year-round
+Puducherry,Black Sea Sprat,6.62,39.6,385.8 - 500.89,Seasonal
+Puducherry,Black Sea Sprat,12.3,18.95,391.43 - 470.24,Seasonal
+Puducherry,Black Sea Sprat,7.97,14.02,216.92 - 353.75,Seasonal
+Puducherry,Striped Red Mullet,7.29,12.07,498.74 - 577.62,Year-round
+Puducherry,Striped Red Mullet,12.85,16.14,300.45 - 383.48,Year-round
+Puducherry,Striped Red Mullet,18.1,21.85,300.5 - 371.23,Year-round
+Puducherry,Striped Red Mullet,10.26,32.73,374.72 - 493.62,Seasonal
+Puducherry,Striped Red Mullet,5.99,15.74,322.22 - 465.92,Year-round
+Puducherry,Striped Red Mullet,11.09,33.13,330.57 - 475.25,Year-round
+Puducherry,Trout,9.58,14.73,252.2 - 378.28,Year-round
+Puducherry,Trout,18.47,31.95,310.1 - 370.71,Year-round
+Puducherry,Trout,9.7,18.85,420.02 - 557.15,Seasonal
+Puducherry,Trout,7.45,17.48,302.56 - 369.39,Year-round
+Puducherry,Trout,10.39,13.77,376.8 - 479.31,Year-round
+Puducherry,Trout,9.7,25.8,297.28 - 358.38,Seasonal
+Puducherry,Shrimp,13.22,31.08,437.81 - 550.72,Seasonal
+Puducherry,Shrimp,5.08,19.84,398.12 - 521.16,Seasonal
+Puducherry,Shrimp,9.99,30.08,264.84 - 373.93,Year-round
+Puducherry,Shrimp,10.86,33.73,440.9 - 562.52,Seasonal
+Puducherry,Shrimp,14.34,22.39,457.96 - 533.14,Seasonal
+Puducherry,Shrimp,6.95,19.83,263.05 - 362.82,Year-round
